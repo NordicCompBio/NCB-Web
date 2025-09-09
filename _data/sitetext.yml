@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Nordic Computational Biology
+    text: A platform for all things computational biology in the Nordics. NCB is made up of life scientists for life scientists, computer scientists, and bioinformaticians.
     button: Tell Me More
     buttonlink: "#services"
 
