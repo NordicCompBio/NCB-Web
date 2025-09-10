@@ -62,8 +62,8 @@ title: NCB Week
     <div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top:30px;">
       <img src="{{ '/assets/img/External_Logos/UEF_white on black.jpg' | relative_url }}" alt="UEF" style="height:100px;">
       <img src="{{ '/assets/img/External_Logos/ELIXIR Node logos_Estonia.png' | relative_url }}" alt="Elixir Estonia" style="height:100px;">
-      <img src="{{ '/assets/img/External_Logos/SemetronBD_RGB.png' | relative_url }}" alt="Semetron and BD" style="height:100px;">
-      <img src="{{ '/assets/img/External_Logos/TLU-logo.jpg' | relative_url }}" alt="Tallinn University" style="height:100px;">
+      <img src="{{ '/assets/img/External_Logos/SemetronBD_RGB.png' | relative_url }}" alt="Semetron and BD" style="height:80px;">
+      <img src="{{ '/assets/img/External_Logos/TLU-logo.jpg' | relative_url }}" alt="Tallinn University" style="height:80px;">
     </div>
   </div>
 
