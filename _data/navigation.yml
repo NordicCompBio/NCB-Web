@@ -14,15 +14,15 @@ en: &DEFAULT_EN
     - title: "Home"
       section: 
     - title: "About"
-      section: about
+      url: "/about/"
     - title: "Resources"
-      section: resources
+      section: "/resources/"
     - title: "Events"
-      section: events
+      section: "/events/"
     - title: "Our Team"
-      section: team
+      section: "/team/"
     - title: "Privacy Policy"
-      section: privacy
+      section: "/privacy/"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
