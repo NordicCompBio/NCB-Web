@@ -11,36 +11,30 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: ""
+    title: "A platform for all things computational biology in the Nordics. NCB is made up of life scientists for life scientists, computer scientists, and bioinformaticians"
     text: "Nordic Computational Biology"
     button: Know More
     buttonlink: "#services"
-    logo: https://nordiccompbio.github.io/NCB-Web/assets/img/NCBlogo2022_circular_transp.png
+    image: https://nordiccompbio.github.io/NCB-Web/assets/img/NCBlogo2022_circular_transp.png
 
   services:
     title: "NCB"
-    text: 
+    text: ""
     section: services
     list:
       - title: "<div class='title-box'>Our Vision</div>"
         desc: "We aim to collaborate with research and industrial organisations to build new initiatives across Nordics.  
         Click the button to learn more about our goals"
-        icon: 
+        icon: ""
         url: https://nordiccompbio.github.io/NCB-Web/about
       - title: "<div class='title-box'>Conference 2025</div>"
         desc: "Click the button to learn more about the first open and hybrid bioinformatics events in the Nordics"
-        icon: 
+        icon: ""
         url: https://nordiccompbio.github.io/NCB-Web/events
       - title: "<div class='title-box'>Get involved</div>"
         desc: "Click the button to join NCB via volunteering, participating, and/or collaborating with us"
-        icon: 
+        icon: ""
         url: https://nordiccompbio.github.io/NCB-Web/team
-
-  #portfolio:
-    #title: "Portfolio"
-    #text: "Lorem ipsum dolor sit amet consectetur."
-    #section: portfolio
-    #closebutton: "Close Project"
 
   timeline:
     title: "Events"
@@ -78,34 +72,42 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  #about:
-    #title: "About Us"
-    #text: "our story"
-    #body: ''
-    #section: about
-
   clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
+      - title: "University of Oslo"
+        url: 
+        logo: assets/img/External_Logos/university-of-oslo-logo.png
+      - title: "Elixir"
+        url:
+        logo: assets/img/External_Logos/Elixir-Europe-logo-1.png
+      - title: "ISCB Regional Student Groups Nordics"
+        url: 
+        logo: assets/img/External_Logos/jpg_NordicRSG_White.jpg
+      - title: "University of Copenhagen"
+        url:
+        logo: assets/img/External_Logos/university-of-copenhagen-logo.png
+      - title: "National Bioinformatics Infrastructure Sweden"
+        url:
+        logo: assets/img/External_Logos/NBIS-logo.png
+      - title: "SciLifeLab"
+        url:
+        logo: assets/img/External_Logos/scilifelab-logo.png
+      - title: "Lund University Bioinformatics Infrastructure"
+        url:
+        logo: assets/img/External_Logos/lubilogo.png
+      - title: "Women in Bioinformatics and data science LA"
+        url:
+        logo: assets/img/External_Logos/Women in Bioinformatics & data science LA.png
+      - title: "Karolinska Institutet"
+        url:
+        logo: assets/img/External_Logos/ki_logo_rgb-custom20221016133022.jpg                            
   team:
     title: "OUR AMAZING TEAM"
     text: "Our everyday heroes, who keep the organisation running like clockwork."
-    subtext: 
+    subtext: ""
     section: team
     people:
       - name: "Nazeefa Fatima"
@@ -150,7 +152,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "On social media or use the form below"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

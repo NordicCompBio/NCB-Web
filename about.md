@@ -3,6 +3,15 @@ layout: page
 title: About NCB
 ---
 
+<h1 style="font-size:48px; color:#2c3e50;">Background</h1>  
+
+Nordic Computational Biology (NCB) was launched in late 2020. It initially began as a collaboration to bring together Nordic RSGs* and later resulted in a more inclusive project with a goal to further expand the network for people interested in computational biology across all Nordic regions.  
+
+
+Our aim is to spread knowledge and inspiration within the field of computational biology, as well as to highlight important research breakthroughs in Nordic countries. According to our community, NCB is an excellent platform for people of all levels and backgrounds; for students and early-career scientists to exchange research, for biotech companies to share bioinformatics advancements happening at industrial level, for developers and engineers to promote latest tools and algorithm, and for senior researchers to inspire the next generation of computational biologists.
+
+*The first Regional Student Group (RSG), of the ISCB, in the Nordic countries was RSG-Denmark. Shortly thereafter it was joined by RSG-Sweden and RSG-Norway in 2018 and 2020, respectively. In late 2020, a collaborative organization between the nordic RSGs was arranged and international events quickly entered the planning phase.  
+
 <h1 style="font-size:48px; color:#2c3e50;">Our Goals</h1>
 
 <h2 style="font-size:28px;">Mission</h2>
