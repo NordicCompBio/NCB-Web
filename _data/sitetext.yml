@@ -167,7 +167,7 @@ en: &DEFAULT_EN
       - url: https://github.com/NordicCompBio
         icon: "fab fa-github"
       - url: mailto:nordic.compbio@gmail.com
-        icon: "fab fa-envelope"
+        icon: "far fa-envelope"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

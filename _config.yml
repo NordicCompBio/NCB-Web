@@ -23,7 +23,7 @@ description: "A platform for all things computational biology in the Nordics."
 author     : Your Name
 logo:     #optional, defaults to site title
   path: https://nordiccompbio.github.io/NCB-Web/assets/img/NCBlogo2022_circular_transp.png
-  height: 90 #height in px, defaults to 52px
+  height: 70 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
@@ -34,8 +34,6 @@ collections:
   portfolio:
 
 markdown: kramdown
-show_about: false
-show_portfolio: false
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam

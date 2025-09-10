@@ -19,7 +19,6 @@ title: Our Team
       <a href="https://github.com/Nazeeefa" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
         <i class="fab fa-github"></i>
       </a>
-      </a>
     </div>
   </div>
 
