@@ -36,17 +36,12 @@ title: NCB Week
     <br>
     <strong>23-24 Oct: Tallinn</strong>  
     <br><br>
-    The Nordic Computational Biology Conference is organized by NCB, University of Eastern Finland and Elixir Estonia.  
-
-    The event is tailored for Bioinformaticians and Computational Biologists. It is an excellent opportunity for researchers and students working with biological data who are keen on exploring new bioinformatics methods, workflows, or challenges.  
-
-    Join us for a dynamic gathering of bioinformaticians, researchers, and leading experts. Immerse yourself in the latest advancements, share innovative research, and foster valuable collaborations at this premier event celebrating computational biology in Finland.​  
-
-    You have the opportunity to attend and present your work there too.  
-
-    Abstract submission will open soon.  
-
-    Registration will open soon  
+    The Nordic Computational Biology Conference is organized by NCB, University of Eastern Finland and Elixir Estonia.</p>
+    <p>The event is tailored for Bioinformaticians and Computational Biologists. It is an excellent opportunity for researchers and students working with biological data who are keen on exploring new bioinformatics methods, workflows, or challenges.</p>
+    <p>Join us for a dynamic gathering of bioinformaticians, researchers, and leading experts. Immerse yourself in the latest advancements, share innovative research, and foster valuable collaborations at this premier event celebrating computational biology in Finland and Estonia.</p>​
+    <p>You have the opportunity to attend and present your work there too.</p>
+    <p>Abstract submission will open soon.</p>
+    <p>Registration will open soon.</p>
 
     <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
       <a href="https://ncbweek2025.org/register" target="_blank" 
