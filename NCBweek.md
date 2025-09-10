@@ -3,17 +3,22 @@ layout: page
 title: NCB Week
 ---
 
-<div style="display:flex; align-items:center; gap:15px;">
+<div style="display:flex; align-items:center; gap:20px;">
   <img src="{{ '/assets/img/Flags/AllNordicsFlags.png' | relative_url }}" alt="Flags of nordic countries" style="height:300px;">
-  <h1 style="font-size:24px; color:#2c3e50;">
-  An <span style="color:#16bbe0;">Open</span> and 
-  <span style="color:#16bbe0;">Hybrid</span>
-  Bioinformatics Conference
-</h1> 
-</div>
-<br>
+  
+  <div style="max-width:600px;">
+    <h1 style="font-size:24px; color:#2c3e50; margin-top:0;">
+      An <span style="color:#16bbe0;">Open</span> and 
+      <span style="color:#16bbe0;">Hybrid</span>
+      Bioinformatics Conference
+    </h1>
 
-<p>The Nordic CompBio Week is a free and open hybrid bioinformatics conference. The conference has a format where participating Nordic regions organize in-person conference programmes and where sessions are live-streamed for virtual attendance for free, according to a hub-and-spoke model. Our main sponsor is Nordic e-Infrastructure Collaboration (NeIC).​</p>
+    <p style="font-weight:bold; margin-bottom:10px;">
+      The Nordic CompBio Week is a free and open hybrid bioinformatics conference.
+      The conference has a format where participating Nordic regions organize in-person conference programmes and where sessions are live-streamed for virtual attendance for free, according to a hub-and-spoke model. Our main sponsor is Nordic e-Infrastructure Collaboration (NeIC).​
+    </p>
+  </div>
+</div>
 <br>
 <br>
 <h2 style="font-size:42px; color:black; text-align:center;">NCB Week 2025​​</h2>    
@@ -21,7 +26,6 @@ title: NCB Week
 
 <h2 style="font-size:28px; color:#2980b9;">NCB Week 2025: Finland + Estonia</h2>
 <br>
-
 **23-24 Oct: Tallinn**  
 <br>
 The Nordic Computational Biology Conference is organized by NCB, University of Eastern Finland and Elixir Estonia.  
@@ -42,8 +46,8 @@ Registration will open soon
 </div>
 
 <div style="display:flex; gap:30px; align-items:center; margin-top:30px;">
-  <img src="{{ '/assets/img/External_Logos/UEF_white on black.jpg' | relative_url }}" alt="UEF" style="height:250px;">
-  <img src="{{ '/assets/img/External_Logos/ELIXIR Node logos_Estonia.png' | relative_url }}" alt="Elixir Estonia" style="height:250px;">
-  <img src="{{ '/assets/img/External_Logos/SemetronBD_RGB.png' | relative_url }}" alt="Semetron and BD" style="height:250px;">
-  <img src="{{ '/assets/img/External_Logos/TLU-logo.jpg' | relative_url }}" alt="Tallinn University" style="height:250px;">
+  <img src="{{ '/assets/img/External_Logos/UEF_white on black.jpg' | relative_url }}" alt="UEF" style="height:100px;">
+  <img src="{{ '/assets/img/External_Logos/ELIXIR Node logos_Estonia.png' | relative_url }}" alt="Elixir Estonia" style="height:100px;">
+  <img src="{{ '/assets/img/External_Logos/SemetronBD_RGB.png' | relative_url }}" alt="Semetron and BD" style="height:100px;">
+  <img src="{{ '/assets/img/External_Logos/TLU-logo.jpg' | relative_url }}" alt="Tallinn University" style="height:100px;">
 </div>
