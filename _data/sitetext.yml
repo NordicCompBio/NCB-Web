@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Nordic Computational Biology
-    text: A platform for all things computational biology in the Nordics. NCB is made up of life scientists for life scientists, computer scientists, and bioinformaticians
-    Learn more about our events, projects, and community initiatives below.
+    title: "Nordic Computational Biology"
+    text: "A platform for all things computational biology in the Nordics. NCB is made up of life scientists for life scientists, computer scientists, and bioinformaticians
+    Learn more about our events, projects, and community initiatives below."
     button: Know More
     buttonlink: "#services"
     logo: "/assets/img/NCBlogo2022_circular_transp.png"
@@ -40,30 +40,35 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Events"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Nordic Women in Tech Awards (NWiTA)"
+        year: "2024"
+        desc: "Awards Ceremony organized by NWiTA team including Nazeefa Fatima (NCB, Norway)"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "NCB Week 2024"
+        year: "2024"
+        desc: "Hybrid conference organized by Marcel Tarbier (Sweden) and Ahmed Mohamed Eltourkey (Finland)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "NCB Week 2023"
+        year: "2023"
+        desc: "Hybrid conference organized by Shilpa Garg (Denmark), Ahmed Mohamed Eltourkey (Finland), Luca Giudice (Finland), and Marcel Tarbier (Sweden)"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Norwegian Bioinformatics Days"
+        year: "2022"
+        desc: "Conference organized by Nordic CompBio, Centre for Digital Life Norway, Computational Biology Unit (University of Bergen), ELIXIR Norway, and RSG Norway."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Handling Pandemic Omics Data in the Nordics"
+        year: "2022"
+        desc: "Virtual meeting organized by Nordic CompBio, ELIXIR Norway, ELIXIR Estonia and SciLifeLab Data Centre."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
