@@ -14,15 +14,15 @@ en: &DEFAULT_EN
     - title: "Home"
       section: 
     - title: "About"
-      url: "/about/"
+      url: "/NCB-Web/about/"
     - title: "Resources"
-      section: "/resources/"
+      section: "/NCB-Web/resources/"
     - title: "Events"
-      section: "/events/"
+      section: "/NCB-Web/events/"
     - title: "Our Team"
-      section: "/team/"
+      section: "/NCB-Web/team/"
     - title: "Privacy Policy"
-      section: "/privacy/"
+      section: "/NCB-Web/privacy/"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

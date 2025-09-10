@@ -4,5 +4,5 @@
 #black: "#000"
 
 #Image Customization
-header-image: ".assets/img/nordic-glacier-hero-banner.png"
-contact-image: ".assets/img/map-image.png"
+header-image: "https://nordiccompbio.github.io/NCB-Web/assets/img/nordic-glacier-hero-banner.png"
+contact-image: "https://nordiccompbio.github.io/NCB-Web/assets/img/map-image.png"
