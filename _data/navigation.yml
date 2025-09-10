@@ -12,17 +12,17 @@
 en: &DEFAULT_EN
   nav:
     - title: "Home"
-      section: 
+      section: ""
     - title: "About"
       url: "/NCB-Web/about/"
     - title: "Resources"
-      section: "/NCB-Web/resources/"
+      url: "/NCB-Web/resources/"
     - title: "Events"
-      section: "/NCB-Web/events/"
+      url: "/NCB-Web/events/"
     - title: "Our Team"
-      section: "/NCB-Web/team/"
+      url: "/NCB-Web/team/"
     - title: "Privacy Policy"
-      section: "/NCB-Web/privacy/"
+      url: "/NCB-Web/privacy/"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
