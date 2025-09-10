@@ -3,3 +3,21 @@
   margin: 15px 0;
   text-transform: none;
 }
+
+// Hide the default icon (cart) if it exists
+.services .icon {
+  display: none;
+}
+
+// Make service titles look like buttons/boxes
+.services .service-title {
+  display: inline-block;
+  padding: 15px 25px;
+  background-color: #3498db; // change color if needed
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}

@@ -78,31 +78,22 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "University of Oslo"
-        url: 
         logo: assets/img/External_Logos/university-of-oslo-logo.png
-      - title: "Elixir"
-        url:
+      - title: "Eliir"
         logo: assets/img/External_Logos/Elixir-Europe-logo-1.png
       - title: "ISCB Regional Student Groups Nordics"
-        url: 
         logo: assets/img/External_Logos/jpg_NordicRSG_White.jpg
       - title: "University of Copenhagen"
-        url:
         logo: assets/img/External_Logos/university-of-copenhagen-logo.png
       - title: "National Bioinformatics Infrastructure Sweden"
-        url:
         logo: assets/img/External_Logos/NBIS-logo.png
       - title: "SciLifeLab"
-        url:
         logo: assets/img/External_Logos/scilifelab-logo.png
       - title: "Lund University Bioinformatics Infrastructure"
-        url:
         logo: assets/img/External_Logos/lubilogo.png
       - title: "Women in Bioinformatics and data science LA"
-        url:
         logo: assets/img/External_Logos/Women in Bioinformatics & data science LA.png
       - title: "Karolinska Institutet"
-        url:
         logo: assets/img/External_Logos/ki_logo_rgb-custom20221016133022.jpg                            
   team:
     title: "OUR AMAZING TEAM"
