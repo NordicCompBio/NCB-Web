@@ -4,37 +4,42 @@ title: Our Team
 permalink: /team/
 ---
 
-<div class="row">
-  <div class="col-sm-4 team-member">
+<h2 style="text-align:center; margin-bottom:40px;">Our Amazing Team</h2>
+
+<div class="team-container">
+
+  <!-- Member 1 -->
+  <div class="team-member">
     <img src="{{ '/assets/img/Our_Team/nazeefa-fatima.jpg' | relative_url }}" alt="Nazeefa Fatima">
-    <h4>Nazeefa Fatima</h4>
-    <p>
-      Project Lead<br>
-      Sweden – Norway<br>
-      Computational biologist. Interests: sequencing technologies (long reads), web development, data management, and genomics infrastructure.
-    </p>
-    <a href="https://github.com/Nazeeefa" target="_blank"><i class="fab fa-github"></i></a>
+    <h3>Nazeefa Fatima</h3>
+    <p class="location">Sweden – Norway</p>
+    <p class="desc">Computational biologist. Interests: sequencing technologies (long reads), web development, data management, and genomics infrastructure.</p>
+    <div class="social-links">
+      <a href="https://github.com/Nazeeefa" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="mailto:nazeeefa@example.com"><i class="fas fa-envelope"></i></a>
+    </div>
   </div>
 
-  <div class="col-sm-4 team-member">
+  <!-- Member 2 -->
+  <div class="team-member">
     <img src="{{ '/assets/img/Our_Team/marcel-ncb.jpg' | relative_url }}" alt="Marcel Tarbier">
-    <h4>Marcel Tarbier</h4>
-    <p>
-      Project member<br>
-      Sweden<br>
-      Postdoctoral researcher at Karolinska Institute and SciLifeLab in Stockholm. Focus on single-cell biology, omics, and data integration.
-    </p>
-    <a href="https://x.com/mtarbier" target="_blank"><i class="fab fa-twitter"></i></a>
+    <h3>Marcel Tarbier</h3>
+    <p class="location">Sweden</p>
+    <p class="desc">Postdoctoral researcher at Karolinska Institute and SciLifeLab, working on quantitative aspects of single-cell biology, omics technologies and data integration.</p>
+    <div class="social-links">
+      <a href="https://x.com/mtarbier" target="_blank"><i class="fab fa-twitter"></i></a>
+    </div>
   </div>
 
-  <div class="col-sm-4 team-member">
+  <!-- Member 3 -->
+  <div class="team-member">
     <img src="{{ '/assets/img/Our_Team/Johan-Osterlund.jpg' | relative_url }}" alt="Johan Österlund">
-    <h4>Johan Österlund</h4>
-    <p>
-      Project member<br>
-      Sweden<br>
-      Interests in systems biology, multiomics, and visualization techniques. Loves cross-Nordic collaboration through NCB.
-    </p>
-    <a href="https://www.linkedin.com/in/johanost-94" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+    <h3>Johan Österlund</h3>
+    <p class="location">Sweden</p>
+    <p class="desc">Interested in systems biology and multiomic data integration, with a passion for visualization techniques and data integration theory.</p>
+    <div class="social-links">
+      <a href="https://www.linkedin.com/in/johanost-94" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+    </div>
   </div>
+
 </div>

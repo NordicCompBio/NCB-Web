@@ -4,7 +4,7 @@ title: NCB Week
 ---
 
 <div style="display:flex; align-items:center; gap:20px;">
-  <img src="{{ '/assets/img/Flags/AllNordicsFlags.png' | relative_url }}" alt="Flags of nordic countries" style="height:300px;">
+  <img src="{{ '/assets/img/Flags/AllNordicsFlags.png' | relative_url }}" alt="Flags of nordic countries" style="height:400px;">
   
   <div style="max-width:600px;">
     <h1 style="font-size:24px; color:#2c3e50; margin-top:0;">
@@ -13,18 +13,20 @@ title: NCB Week
       Bioinformatics Conference
     </h1>
 
-    <p style="font-weight:bold; margin-bottom:10px;">
-      The Nordic CompBio Week is a free and open hybrid bioinformatics conference.
-      The conference has a format where participating Nordic regions organize in-person conference programmes and where sessions are live-streamed for virtual attendance for free, according to a hub-and-spoke model. Our main sponsor is Nordic e-Infrastructure Collaboration (NeIC).​
+    <p style="margin-bottom:10px;">
+      The Nordic CompBio Week is a free and open hybrid bioinformatics conference. The conference has a format where participating Nordic regions organize in-person conference programmes and where sessions are live-streamed for virtual attendance for free according to a hub-and-spoke model. Our main sponsor is Nordic e-Infrastructure Collaboration (NeIC).​
     </p>
   </div>
 </div>
 <br>
 <br>
-<h2 style="font-size:42px; color:black; text-align:center;">NCB Week 2025​​</h2>    
-<br>
+<div style="display:flex; align-items:center; gap:15px;">
+  <img src="{{ '/assets/img/External_Logos/Estonia_Finland_Flag.png' | relative_url }}" alt="Flags of Finland and Estonia" style="height:100px;">
 
-<h2 style="font-size:28px; color:#2980b9;">NCB Week 2025: Finland + Estonia</h2>
+  <h2 style="font-size:28px; color:#2980b9; margin:0;">
+    NCB Week 2025: Finland + Estonia
+  </h2>
+</div>
 <br>
 **23-24 Oct: Tallinn**  
 <br>
@@ -50,4 +52,27 @@ Registration will open soon
   <img src="{{ '/assets/img/External_Logos/ELIXIR Node logos_Estonia.png' | relative_url }}" alt="Elixir Estonia" style="height:100px;">
   <img src="{{ '/assets/img/External_Logos/SemetronBD_RGB.png' | relative_url }}" alt="Semetron and BD" style="height:100px;">
   <img src="{{ '/assets/img/External_Logos/TLU-logo.jpg' | relative_url }}" alt="Tallinn University" style="height:100px;">
+</div>
+
+<br>
+<br>
+
+<div style="display:flex; align-items:center; gap:15px;">
+  <img src="{{ '/assets/img/Flags/Denmark flag.png' | relative_url }}" alt="Flags of Finland and Estonia" style="height:100px;">
+
+  <h2 style="font-size:28px; color:#2980b9; margin:0;">
+    NCB Week 2025: Denmark
+  </h2>
+</div>
+<br>
+**27-28 Oct: Aalborg**  
+<br>
+The event is organized by ELIXIR Denmark and sponsored by Novo Nordisk, Biolib and ZS Discovery. It is funded by Danish Data Science Academy (DDSA).
+
+It aims to be a dynamic forum for the bioinformatics community, including data scientists, statisticians, software developers, and wet lab scientists. This conference has been an excellent platform to exchange about the latest research and tools development in Danish bioinformatics. You will have the chance to learn, connect, and stay up-to-date with the most cutting-edge developments in the field. 
+
+The conference is planned to start at 12:00 on Monday, October 27 and end at 16.30 on Tuesday, October 28.​
+
+<div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+  <a href="https://eventsignup.ku.dk/9danishbioinfconference" target="_blank" style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;"> <strong>Register Now</strong></a>
 </div>
