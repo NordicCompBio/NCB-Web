@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     - title: "Our Team"
       section: team
     - title: "Privacy Policy"
-      section: privacy policy
+      section: privacy
 en-US:
   <<: *DEFAULT_EN
 en-CA:
