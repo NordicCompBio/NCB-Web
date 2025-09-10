@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "Our Team"
+title: Our Team
 ---
