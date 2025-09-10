@@ -58,23 +58,22 @@ Registration will open soon
 <br>
 
 
-<div style="background:#cad1d9; padding:40px; display:flex; align-items:center; gap:15px;">
-  <br>
-  <img src="{{ '/assets/img/Flags/Denmark flag.png' | relative_url }}" alt="Flags of Finland and Estonia" style="height:70px;">
+<div style="background:#cad1d9; padding:40px; width:100%; box-sizing:border-box;">
+  <div style="display:flex; align-items:center; gap:15px;">
+    <img src="{{ '/assets/img/Flags/Denmark flag.png' | relative_url }}" alt="Flags of Denmark" style="height:70px;">
+    <h2 style="font-size:28px; color:#2980b9; margin:0;">
+      NCB Week 2025: Denmark
+    </h2>
+  </div>
 
-  <h2 style="font-size:28px; color:#2980b9; margin:0;">
-    NCB Week 2025: Denmark
-  </h2>
-</div>
-<br>
-**27-28 Oct: Aalborg**  
-<br>
-The event is organized by ELIXIR Denmark and sponsored by Novo Nordisk, Biolib and ZS Discovery. It is funded by Danish Data Science Academy (DDSA).
+  <p><strong>27-28 Oct: Aalborg</strong></p>
+  <p>The event is organized by ELIXIR Denmark and sponsored by Novo Nordisk, Biolib and ZS Discovery. It is funded by Danish Data Science Academy (DDSA).</p>
+  <p>It aims to be a dynamic forum for the bioinformatics community, including data scientists, statisticians, software developers, and wet lab scientists. This conference has been an excellent platform to exchange about the latest research and tools development in Danish bioinformatics. You will have the chance to learn, connect, and stay up-to-date with the most cutting-edge developments in the field.</p>
+  <p>The conference is planned to start at 12:00 on Monday, October 27 and end at 16:30 on Tuesday, October 28.​</p>
 
-It aims to be a dynamic forum for the bioinformatics community, including data scientists, statisticians, software developers, and wet lab scientists. This conference has been an excellent platform to exchange about the latest research and tools development in Danish bioinformatics. You will have the chance to learn, connect, and stay up-to-date with the most cutting-edge developments in the field. 
-
-The conference is planned to start at 12:00 on Monday, October 27 and end at 16.30 on Tuesday, October 28.​
-
-<div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
-  <a href="https://eventsignup.ku.dk/9danishbioinfconference" target="_blank" style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;"> <strong>Register Now</strong></a>
+  <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+    <a href="https://eventsignup.ku.dk/9danishbioinfconference" target="_blank" style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
+      <strong>Register Now</strong>
+    </a>
+  </div>
 </div>

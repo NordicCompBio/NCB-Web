@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "<div class='title-box'>Our Vision</div>"
-        desc: "We aim to collaborate with research and industrial organisations to build new initiatives across Nordics. 
+        desc: "We aim to collaborate with research and industrial organisations to build new initiatives across Nordics 
         <br><a href='https://nordiccompbio.github.io/NCB-Web/about' class='btn btn-primary'>Learn More</a>"
         icon: "fas fa-circle"
       - title: "<div class='title-box'>Conference 2025</div>"
@@ -106,7 +106,7 @@ en: &DEFAULT_EN
         Computational biologist. Interests: sequencing technologies (long reads), web development, data management, and genomics infrastructure."
         image: assets/img/Our_Team/nazeefa-fatima.jpg
         social:
-          - url: '<a href="https://github.com/Nazeeefa" target="_blank"><i class="fab fa-github"></i></a>'
+          - url: https://github.com/Nazeeefa
             icon: fab fa-github
       - name: "Marcel Tarbier"
         role: "Project member<br>
@@ -114,7 +114,7 @@ en: &DEFAULT_EN
         I am a postdoctoral researcher at Karolinska Institute and SciLifeLab in Stockholm. My research focuses on quantitative aspects of single-cell biology, omics technologies and data integration to answer fundamental biological questions with regard to gene regulation and chromatin architecture. I am convinced that Nordic CompBio can address the need for computational biologists to exchange ideas past institutional and country borders."
         image: assets/img/Our_Team/marcel-ncb.jpg
         social:
-          - url: '<a href="https://x.com/mtarbier" target="_blank"><i class="fab fa-github"></i></a>'
+          - url: https://x.com/mtarbier
             icon: fab fa-twitter
       - name: "Johan Österlund"
         role: "Project member<br>
@@ -122,7 +122,7 @@ en: &DEFAULT_EN
         My primary interest lies in systems biology and multiomic data integration. I am particularly fascinated by the visualization techniques and the theory behind combining information of different scale, encoding and biological setting. Nordic Computational Biology provides a natural place for me and others to socialize, learn and develop together. The project is open for anyone with a burning interest in computational biology and related fields, a society that is actively non-exclusive which I find extremely valuable."
         image: assets/img/Our_Team/Johan-Osterlund.jpg
         social:
-          - url: '<a href="https://www.linkedin.com/in/johanost-94" target="_blank"><i class="fab fa-github"></i></a>'
+          - url: https://www.linkedin.com/in/johanost-94
             icon: fab fa-linkedin-in
       - name: "Ahmed Eltorky"
         role: "Project member<br>
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
         I am a PhD student in the field of Systems Biology with interests in Immunology, transcriptomics and single-cell technologies.  I appreciate the gesture from the Nordic Computational Biology to welcome, develop and integrate researchers across the nordics and other countries with a light collaborative dynamic."
         image: assets/img/Our_Team/Ahmed Mohamed_GrayScale.jpg
         social:
-          - url: '<a href="https://www.linkedin.com/in/ahmed-mohamed-mohamed/" target="_blank"><i class="fab fa-github"></i></a>'
+          - url: https://www.linkedin.com/in/ahmed-mohamed-mohamed/
             icon: fab fa-linkedin-in
       - name: "Margarita Alonso"
         role: "Project member<br>
@@ -138,7 +138,7 @@ en: &DEFAULT_EN
         My interest is mainly immunoinformatics, currently working with B-cell receptor sequences, but in general, I'm interested in systems biology (also its relationship with biostatistics and mathematical modelling), bioinformatics and NGS. I believe that the Nordic CompBio is an excellent opportunity to learn from different people about the field that unites us all as professionals. It also makes possible the visualization and sharing of information and research, which in turn promotes the development of more scientists, generating a positive impact on the scientific world."
         image: assets/img/Our_Team/Maria-margarita.jpeg
         social:
-          - url: '<a href="https://www.linkedin.com/in/margarita-alonso-ascencio-330b34191/" target="_blank"><i class="fab fa-github"></i></a>'
+          - url: https://www.linkedin.com/in/margarita-alonso-ascencio-330b34191/
             icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
@@ -158,16 +158,16 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: '<a href="https://x.com/nordiccompbio?s=11" target="_blank"><i class="fab fa-github"></i></a>'
+      - url: https://x.com/nordiccompbio?s=11
         icon: "fab fa-twitter"
-      - url: '<a href="https://www.youtube.com/@NordicCompBio" target="_blank"><i class="fab fa-github"></i></a>'
+      - url: https://www.youtube.com/@NordicCompBio
         icon: "fab fa-youtube"
-      - url: '<a href="https://www.linkedin.com/company/nordic-compbio/" target="_blank"><i class="fab fa-github"></i></a>'
+      - url: https://www.linkedin.com/company/nordic-compbio/
         icon: "fab fa-linkedin-in"
-      - url: '<a href="https://github.com/NordicCompBio" target="_blank"><i class="fab fa-github"></i></a>'
+      - url: https://github.com/NordicCompBio
         icon: "fab fa-github"
-      - url: '<a href="mailto:nordic.compbio@gmail.com" target="_blank"><i class="fab fa-github"></i></a>'
-        icon: "fab fa-email"
+      - url: mailto:nordic.compbio@gmail.com
+        icon: "fab fa-envelope"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

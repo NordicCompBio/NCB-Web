@@ -19,8 +19,6 @@ title: Our Team
       <a href="https://github.com/Nazeeefa" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
         <i class="fab fa-github"></i>
       </a>
-      <a href="mailto:nazeeefa@example.com" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
-        <i class="fas fa-envelope"></i>
       </a>
     </div>
   </div>
@@ -55,4 +53,35 @@ title: Our Team
     </div>
   </div>
 
+
+  <!-- Member 4 -->
+  <div style="flex:1 1 280px; max-width:300px;">
+    <img src="{{ '/assets/img/Our_Team/Ahmed Mohamed_GrayScale.jpg' | relative_url }}" alt="Johan Österlund" style="width:200px; height:200px; object-fit:cover; border-radius:50%; border:6px solid #eee; margin-bottom:15px;">
+    <h3 style="margin:10px 0 5px; font-size:20px; color:#2c3e50;">Johan Österlund</h3>
+    <p style="font-weight:bold; color:#2980b9; margin-bottom:10px;">Sweden</p>
+    <p style="font-size:14px; color:#555; margin-bottom:15px;">
+      I am a PhD student in the field of Systems Biology with interests in Immunology, transcriptomics and single-cell technologies.  I appreciate the gesture from the Nordic Computational Biology to welcome, develop and integrate researchers across the nordics and other countries with a light collaborative dynamic.
+    </p>
+    <div>
+      <a href="https://www.linkedin.com/in/ahmed-mohamed-mohamed/" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </div>
+  </div>
+
+  
+  <!-- Member 4 -->
+  <div style="flex:1 1 280px; max-width:300px;">
+    <img src="{{ '/assets/img/Our_Team/Maria-margarita.jpeg' | relative_url }}" alt="Johan Österlund" style="width:200px; height:200px; object-fit:cover; border-radius:50%; border:6px solid #eee; margin-bottom:15px;">
+    <h3 style="margin:10px 0 5px; font-size:20px; color:#2c3e50;">Ahmed Eltorky</h3>
+    <p style="font-weight:bold; color:#2980b9; margin-bottom:10px;">Finland</p>
+    <p style="font-size:14px; color:#555; margin-bottom:15px;">
+      My interest is mainly immunoinformatics, currently working with B-cell receptor sequences, but in general, I'm interested in systems biology (also its relationship with biostatistics and mathematical modelling), bioinformatics and NGS. I believe that the Nordic CompBio is an excellent opportunity to learn from different people about the field that unites us all as professionals. It also makes possible the visualization and sharing of information and research, which in turn promotes the development of more scientists, generating a positive impact on the scientific world.
+    </p>
+    <div>
+      <a href="https://www.linkedin.com/in/margarita-alonso-ascencio-330b34191/" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </div>
+  </div>
 </div>
