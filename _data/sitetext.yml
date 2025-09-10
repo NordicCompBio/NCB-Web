@@ -23,18 +23,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "<div class='title-box'>Our Vision</div>"
-        desc: "We aim to collaborate with research and industrial organisations to build new initiatives across Nordics.  
-        Click the button to learn more about our goals"
-        icon: ""
-        url: https://nordiccompbio.github.io/NCB-Web/about
+        desc: "We aim to collaborate with research and industrial organisations to build new initiatives across Nordics. 
+        <br><a href='https://nordiccompbio.github.io/NCB-Web/about' class='btn btn-primary'>Learn More</a>"
+        icon: "fas fa-circle"
       - title: "<div class='title-box'>Conference 2025</div>"
-        desc: "Click the button to learn more about the first open and hybrid bioinformatics events in the Nordics"
-        icon: ""
-        url: https://nordiccompbio.github.io/NCB-Web/events
+        desc: "Learn more about the first open and hybrid bioinformatics events in the Nordics
+        <br><a href='https://nordiccompbio.github.io/NCB-Web/events' class='btn btn-primary'>Click here</a>"
+        icon: "fas fa-circle"
       - title: "<div class='title-box'>Get involved</div>"
-        desc: "Click the button to join NCB via volunteering, participating, and/or collaborating with us"
-        icon: ""
-        url: https://nordiccompbio.github.io/NCB-Web/team
+        desc: "Join NCB via volunteering, participating and/or collaborating with us
+        <br><a href='https://nordiccompbio.github.io/NCB-Web/team' class='btn btn-primary'>Click here</a>"
+        icon: "fas fa-circle"
 
   timeline:
     title: "Events"
@@ -43,27 +42,27 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nordic Women in Tech Awards (NWiTA)"
+      - title: "Nordic Women in Tech Awards (NWiTA) (13 November)"
         year: "2024"
         desc: "Awards Ceremony organized by NWiTA team including Nazeefa Fatima (NCB, Norway)"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "NCB Week 2024"
+      - title: "NCB Week 2024 (4-8 November)"
         year: "2024"
         desc: "Hybrid conference organized by Marcel Tarbier (Sweden) and Ahmed Mohamed Eltourkey (Finland)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "NCB Week 2023"
+      - title: "NCB Week 2023 (6-10 November)"
         year: "2023"
         desc: "Hybrid conference organized by Shilpa Garg (Denmark), Ahmed Mohamed Eltourkey (Finland), Luca Giudice (Finland), and Marcel Tarbier (Sweden)"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Norwegian Bioinformatics Days"
+      - title: "Norwegian Bioinformatics Days (28-30 September)"
         year: "2022"
         desc: "Conference organized by Nordic CompBio, Centre for Digital Life Norway, Computational Biology Unit (University of Bergen), ELIXIR Norway, and RSG Norway."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Handling Pandemic Omics Data in the Nordics"
+      - title: "Handling Pandemic Omics Data in the Nordics (18-19 May)"
         year: "2022"
         desc: "Virtual meeting organized by Nordic CompBio, ELIXIR Norway, ELIXIR Estonia and SciLifeLab Data Centre."
         image: assets/img/timeline/4.jpg

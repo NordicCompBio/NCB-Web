@@ -21,7 +21,7 @@ title: NCB Week
 <br>
 <br>
 <div style="display:flex; align-items:center; gap:15px;">
-  <img src="{{ '/assets/img/External_Logos/Estonia_Finland_Flag.png' | relative_url }}" alt="Flags of Finland and Estonia" style="height:100px;">
+  <img src="{{ '/assets/img/External_Logos/Estonia_Finland_Flag.png' | relative_url }}" alt="Flags of Finland and Estonia" style="height:70px;">
 
   <h2 style="font-size:28px; color:#2980b9; margin:0;">
     NCB Week 2025: Finland + Estonia
@@ -57,8 +57,10 @@ Registration will open soon
 <br>
 <br>
 
-<div style="display:flex; align-items:center; gap:15px;">
-  <img src="{{ '/assets/img/Flags/Denmark flag.png' | relative_url }}" alt="Flags of Finland and Estonia" style="height:100px;">
+
+<div style="background:#cad1d9; padding:40px; display:flex; align-items:center; gap:15px;">
+  <br>
+  <img src="{{ '/assets/img/Flags/Denmark flag.png' | relative_url }}" alt="Flags of Finland and Estonia" style="height:70px;">
 
   <h2 style="font-size:28px; color:#2980b9; margin:0;">
     NCB Week 2025: Denmark
