@@ -19,6 +19,8 @@ en: &DEFAULT_EN
       url: "/NCB-Web/resources"
     - title: "Events"
       url: "/NCB-Web/events"
+    - title: "NCB Weel"
+      url: "/NCB-Web/NCBweek"
     - title: "Our Team"
       url: "/NCB-Web/team"
     - title: "Privacy Policy"

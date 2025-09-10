@@ -16,32 +16,36 @@ en: &DEFAULT_EN
     text: "Nordic Computational Biology"
     button: Know More
     buttonlink: "#services"
-    logo: "/assets/img/NCBlogo2022_circular_transp.png"
+    logo: "https://nordiccompbio.github.io/NCB-Web/assets/img/NCBlogo2022_circular_transp.png"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "NCB"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "<div class='title-box'>Our Vision</div>"
+        desc: "We aim to collaborate with research and industrial organisations to build new initiatives across Nordics.  
+        Click the button to learn more about our goals"
+        icon: ""
+        url: "https://nordiccompbio.github.io/NCB-Web/about"
+      - title: "<div class='title-box'>Conference 2025</div>"
+        desc: "Click the button to learn more about the first open and hybrid bioinformatics events in the Nordics"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        url: "https://nordiccompbio.github.io/NCB-Web/events"
+      - title: "<div class='title-box'>Get involved</div>"
+        desc: "Click the button to join NCB via volunteering, participating, and/or collaborating with us"
+        icon: ""
+        url: "https://nordiccompbio.github.io/NCB-Web/team"
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  #portfolio:
+    #title: "Portfolio"
+    #text: "Lorem ipsum dolor sit amet consectetur."
+    #section: portfolio
+    #closebutton: "Close Project"
 
   timeline:
     title: "Events"
-    text: "Lorem ipsum timeline"
+    text: "Previous events"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -75,11 +79,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: ''
-    section: about
+  #about:
+    #title: "About Us"
+    #text: "our story"
+    #body: ''
+    #section: about
 
   clients:
     section: clients
