@@ -11,10 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: A platform for all things computational biology in the Nordics. NCB is made up of life scientists for life scientists, computer scientists, and bioinformaticians.
-    text: Nordic Computational Biology
+    title: Nordic Computational Biology
+    text: A platform for all things computational biology in the Nordics. NCB is made up of life scientists for life scientists, computer scientists, and bioinformaticians
+    Learn more about our events, projects, and community initiatives below.
     button: Know More
     buttonlink: "#services"
+    logo: "/assets/img/NCBlogo2022_circular_transp.png"
 
   services:
     title: "Services"
