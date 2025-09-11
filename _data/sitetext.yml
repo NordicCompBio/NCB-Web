@@ -24,15 +24,15 @@ en: &DEFAULT_EN
     list:
       - title: "<div class='title-box'>Our Vision</div>"
         desc: "We aim to collaborate with research and industrial organisations to build new initiatives across Nordics 
-        <br><a href='https://nordiccompbio.github.io/NCB-Web/about' class='btn btn-primary'>Learn More</a>"
+        <br><a href='./about' class='btn btn-primary'>Learn More</a>"
         icon: "fas fa-circle"
       - title: "<div class='title-box'>Conference 2025</div>"
         desc: "Learn more about the first open and hybrid bioinformatics events in the Nordics
-        <br><a href='https://nordiccompbio.github.io/NCB-Web/events' class='btn btn-primary'>Click here</a>"
+        <br><a href='./events' class='btn btn-primary'>Click here</a>"
         icon: "fas fa-circle"
       - title: "<div class='title-box'>Get involved</div>"
         desc: "Join NCB via volunteering, participating and/or collaborating with us
-        <br><a href='https://nordiccompbio.github.io/NCB-Web/team' class='btn btn-primary'>Click here</a>"
+        <br><a href='./team' class='btn btn-primary'>Click here</a>"
         icon: "fas fa-circle"
 
   timeline:
