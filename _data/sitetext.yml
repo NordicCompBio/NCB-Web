@@ -73,8 +73,8 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    max-height: 70px
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "University of Oslo"
         logo: assets/img/External_Logos/university-of-oslo-logo.png
