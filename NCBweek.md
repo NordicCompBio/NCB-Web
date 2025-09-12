@@ -3,6 +3,13 @@ layout: page
 title: NCB Week
 ---
 
+<style>
+  body {
+    background-color: #e0e0e0; /* grey background */
+    margin: 0; /* removes white strips */
+  }
+</style>
+
 <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px;">
   <img src="{{ '/assets/img/Flags/AllNordicsFlags.png' | relative_url }}" 
        alt="Flags of Nordic countries" 
@@ -44,14 +51,18 @@ title: NCB Week
     <p>Registration will open soon.</p>
 
     <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
-      <a href="https://ncbweek2025.org/register" target="_blank" 
+      <a href="https://docs.google.com/forms/d/1cAnp0ueSv9lqa-bFdfD-dNiAlUGN2oaGJBgv09PIxY8/edit?usp=drive_web&ouid=113154760262395868407" target="_blank" 
          style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
         <strong>Register Now</strong>
       </a>
-      <a href="https://ncbweek2025.org/abstracts" target="_blank" 
+      <a href="https://docs.google.com/forms/d/1SGaSYj3sWVSlV5uOqXHyX1iJ9bQpu2z6J19UqnnOOPE/edit?usp=drive_web&ouid=113154760262395868407" target="_blank" 
          style="padding:15px 25px; background:#2ecc71; color:white; text-decoration:none; border-radius:8px;">
         <strong>Submit Abstract</strong>
       </a>
+      <a href="https://docs.google.com/presentation/d/1j8vwaYHfSpgKI4GWdO8p7haANv3G59XU/present" target="_blank" 
+        style="padding:15px 25px; background:#e67e22; color:white; text-decoration:none; border-radius:8px;">
+        <strong>View Schedule</strong>
+        </a>
     </div>
 
     <div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top:30px;">
