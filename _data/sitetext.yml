@@ -50,12 +50,12 @@ en: &DEFAULT_EN
       - title: "NCB Week 2024 (4-8 November)"
         year: "2024"
         desc: "Hybrid conference organized by Marcel Tarbier (Sweden) and Ahmed Mohamed Eltourkey (Finland)"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/NCB_Events/NCB_Finland_2024.jpg
         alt:
       - title: "NCB Week 2023 (6-10 November)"
         year: "2023"
         desc: "Hybrid conference organized by Shilpa Garg (Denmark), Ahmed Mohamed Eltourkey (Finland), Luca Giudice (Finland), and Marcel Tarbier (Sweden)"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/Site_Files/Finland_NCBWeek2023_edited.jpg
         alt: image alt text
       - title: "Norwegian Bioinformatics Days (28-30 September)"
         year: "2022"
@@ -65,7 +65,7 @@ en: &DEFAULT_EN
       - title: "Handling Pandemic Omics Data in the Nordics (18-19 May)"
         year: "2022"
         desc: "Virtual meeting organized by Nordic CompBio, ELIXIR Norway, ELIXIR Estonia and SciLifeLab Data Centre."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/3.jpg
         alt:
         # you can enforce the alignment
         # align: right
