@@ -89,3 +89,11 @@ title: Our Team
     </div>
   </div>
 </div>
+
+<div style="text-align:center; margin: 40px 0;">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlkCWgLYHruRqYUZRzkDOETeyZ2pWOc08fIGK0L01Cpd6L7Q/viewform?usp=send_form" 
+     target="_blank" 
+     style="display:inline-block; padding:20px 40px; font-size:22px; background:#e67e22; color:white; text-decoration:none; border-radius:10px; font-weight:bold;">
+     Sign Up
+  </a>
+</div>
