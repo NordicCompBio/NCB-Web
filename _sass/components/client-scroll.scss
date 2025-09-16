@@ -1,32 +1,33 @@
 // Styling for the horizontally scrolling clients section
-// #scrolling-clients {
-//   display: flex;
-//   flex-wrap: nowrap;
-//   overflow-x: scroll;
-//   overflow-y: hidden;
-// }
+#scrolling-clients {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  animation: scroll 40s linear infinite;
+}
 
 #col-md-3 col-sm-6 {
   flex: 0 0 auto;
 }
 
 
-#scrolling-clients {
-  display: flex;
-  flex-wrap: nowrap;
-  overflow: hidden;
-  animation: scroll 40s linear infinite;
-}
+// #scrolling-clients {
+//   display: flex;
+//   flex-wrap: nowrap;
+//   overflow: hidden;
+//   animation: scroll 40s linear infinite;
+// }
 
-#scrolling-clients > div {
-  flex: 0 0 auto;
-  padding: 0 20px;
-}
+// #scrolling-clients > div {
+//   flex: 0 0 auto;
+//   padding: 0 20px;
+// }
 
-#scrolling-clients img {
-  max-height: 70px;
-  object-fit: contain;
-}
+// #scrolling-clients img {
+//   max-height: 70px;
+//   object-fit: contain;
+// }
 
 @keyframes scroll {
   0% {
