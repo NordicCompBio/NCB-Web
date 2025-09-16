@@ -21,6 +21,8 @@
               <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
             {%- elsif link.section -%}
               <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+            {% elsif link.is_button %}
+              <a class="menu-btn" href="{{ link.url }}" target="_blank">{{ link.title }}</a>
             {%- else -%}
               <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
             {%- endif -%}
@@ -33,6 +35,8 @@
             <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
           {%- elsif link.section -%}
             <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+          {% elsif link.is_button %}
+              <a class="menu-btn" href="{{ link.url }}" target="_blank">{{ link.title }}</a>
           {%- else -%}
             <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}
