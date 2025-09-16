@@ -26,7 +26,7 @@ en: &DEFAULT_EN
     - title: "Privacy Policy"
       url: "/NCB-Web/privacy"
     - title: "Sign Up"
-      url: ""
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdlkCWgLYHruRqYUZRzkDOETeyZ2pWOc08fIGK0L01Cpd6L7Q/viewform?usp=send_form"
       is_button: true
 en-US:
   <<: *DEFAULT_EN

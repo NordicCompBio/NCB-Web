@@ -124,8 +124,8 @@ title: Our Team
       <p style="margin:0 0 8px; color:#000;">Advisory Role</p>
       <p style="margin:0 0 10px; font-weight:bold; color:#2980b9;">Norway</p>
       <p style="font-size:15px; color:#555; line-height:1.6;">
-        Our group’s computational biology research programme focuses on gene expression regulation and the mechanisms by which it can be disrupted in human diseases such as cancers. In a nutshell, the group develops and applies computational approaches to analyze in house and public multi-omics data to study gene expression dysregulation.
-        <br>
+        Our group’s computational biology research programme focuses on gene expression regulation and the mechanisms by which it can be disrupted in human diseases such as cancers. In a nutshell, the group develops and applies computational approaches to analyze in house and public multi-omics data to study gene expression dysregulation.  
+        
         There are unparalleled opportunities arising from being part of a scientific community with a common focus and a common goal. The Nordic Computational Biology (NCB) initiative provides such an opportunity to trainees working in the field of bioinformatics in the Nordics. I see the events organized by NBC as catalyst events aiming at sharing knowledge, promoting scientific excellence, providing support, and triggering international and local collaborations on computational biology and statistical research projects related to molecular biology. I believe that it is an exciting forum to strengthen computational biology in the Nordics.
       </p>
     </div>
@@ -146,10 +146,10 @@ title: Our Team
     </div>
     <div>
       <h3 style="margin:0 0 5px; font-size:22px; color:#2c3e50;">Marieke Kuijjer</h3>
-      <p style="margin:0 0 8px; color:#000;">Norway</p>
+      <p style="margin:0 0 10px; font-weight:bold; color:#2980b9;">Norway</p>
       <p style="font-size:15px; color:#555; line-height:1.6;">
-        My group’s research focuses on developing computational frameworks that place genomic data into the context of gene regulatory networks and on exploring how these networks influence complex disease, with a main focus on cancer.
-        <br>
+        My group’s research focuses on developing computational frameworks that place genomic data into the context of gene regulatory networks and on exploring how these networks influence complex disease, with a main focus on cancer.  
+        
         Thoughts on Nordic CompBio: Many of the tools and methodologies that computational biologists develop and use can be applied to or extended in a wide variety of settings and projects. Through connecting researchers from different career stages and across the Nordic countries, I hope that the NCB platform will spark creativity, increase collaborations, and create a more collective and open approach to doing research.
       </p>
     </div>
@@ -158,7 +158,7 @@ title: Our Team
   <!-- Advisor 3 -->
   <div style="display:flex; gap:20px; align-items:flex-start;">
     <div style="flex-shrink:0; text-align:center;">
-      <img src="{{ '/assets/img/Our_Team/_HVI7844_small_edited_edited.jpg' | relative_url }}" 
+      <img src="{{ '/assets/img/Our_Team/Jing_HVI7844_small_edited_edited.jpg' | relative_url }}" 
            alt="Jing Tang" 
            style="width:180px; height:180px; object-fit:cover; border-radius:50%; border:5px solid #eee; margin-bottom:10px;">
       <div>
@@ -170,11 +170,10 @@ title: Our Team
     </div>
     <div>
       <h3 style="margin:0 0 5px; font-size:22px; color:#2c3e50;">Jing Tang</h3>
-      <p style="margin:0 0 8px; color:#000;">Advisory Role</p>
       <p style="margin:0 0 10px; font-weight:bold; color:#2980b9;">Finland</p>
       <p style="font-size:15px; color:#555; line-height:1.6;">
         I would like to be part of NCB to develop the community further in the Nordic region, especially Finland. The needs for computational biology are far exceeding the available support, and therefore the NCB needs to act more coherently to engage the researchers, students, as well as funding agencies.
-        <br>
+
         I see a great potential for NCB as a central hub for sharing ideas, resources, and activities to promote computational biology across the region.
       </p>
     </div>
@@ -199,11 +198,10 @@ title: Our Team
     </div>
     <div>
       <h3 style="margin:0 0 5px; font-size:22px; color:#2c3e50;">Laura Elo</h3>
-      <p style="margin:0 0 8px; color:#000;">Advisory Role</p>
       <p style="margin:0 0 10px; font-weight:bold; color:#2980b9;">Finland</p>
       <p style="font-size:15px; color:#555; line-height:1.6;">
-        NCB provides a platform for connecting researchers across disciplines and countries in the Nordic region. I believe it can play an important role in fostering collaboration and sharing knowledge in computational biology, which is increasingly essential for advancing life sciences.
-        <br>
+        NCB provides a platform for connecting researchers across disciplines and countries in the Nordic region. I believe it can play an important role in fostering collaboration and sharing knowledge in computational biology, which is increasingly essential for advancing life sciences.  
+        
         By bringing together diverse experts, NCB has the potential to support the development of new ideas, tools, and partnerships that can benefit the broader scientific community in the Nordics.
       </p>
     </div>
@@ -224,7 +222,6 @@ title: Our Team
     </div>
     <div>
       <h3 style="margin:0 0 5px; font-size:22px; color:#2c3e50;">Sushma-Nagaraja Grellscheid</h3>
-      <p style="margin:0 0 8px; color:#000;">Advisory Role</p>
       <p style="margin:0 0 10px; font-weight:bold; color:#2980b9;">Norway</p>
     </div>
   </div>
@@ -244,7 +241,6 @@ title: Our Team
     </div>
     <div>
       <h3 style="margin:0 0 5px; font-size:22px; color:#2c3e50;">Arne Elofsson</h3>
-      <p style="margin:0 0 8px; color:#000;">Advisory Role</p>
       <p style="margin:0 0 10px; font-weight:bold; color:#2980b9;">Sweden</p>
     </div>
   </div>
