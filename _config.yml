@@ -20,10 +20,10 @@ baseurl: "/NCB-Web" # the subpath of your site, e.g. /blog
 title      : Nordic CompBio
 email      : nordic.compbio@gmail.com #this is also the email contact forms will go to
 description: "A platform for all things computational biology in the Nordics."
-author     : Your Name
+author     : Nordic CompBio
 logo:     #optional, defaults to site title
   path: https://nordiccompbio.github.io/NCB-Web/assets/img/NCBlogo2022_circular_transp.png
-  height: 70 #height in px, defaults to 52px
+  height: 45 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
