@@ -25,8 +25,9 @@ en: &DEFAULT_EN
       url: "/NCB-Web/team"
     - title: "Privacy Policy"
       url: "/NCB-Web/privacy"
-    - title: "<a href='https://docs.google.com/forms/d/e/1FAIpQLSdlkCWgLYHruRqYUZRzkDOETeyZ2pWOc08fIGK0L01Cpd6L7Q/viewform?usp=send_form' target='_blank' class='menu-btn'>Sign Up</a>"
-      url: ""
+    - title: "Sign Up"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdlkCWgLYHruRqYUZRzkDOETeyZ2pWOc08fIGK0L01Cpd6L7Q/viewform?usp=send_form"
+      is_button: true
 en-US:
   <<: *DEFAULT_EN
 en-CA:
