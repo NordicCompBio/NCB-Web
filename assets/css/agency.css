@@ -154,17 +154,21 @@ img::-moz-selection {
 }
 /* Custom Sign Up Button */
 .menu-btn {
-  padding: 8px 18px;
+  padding: 10px 20px;
   background: #e67e22;
   color: white !important;
   border-radius: 8px;
   font-weight: bold;
   text-decoration: none !important;
+  margin-left: 15px; /* spacing from last menu item */
+  display: inline-block;
+  transition: all 0.3s ease;
 }
 
 .menu-btn:hover {
   background: #cf6d17;
   color: white !important;
+  text-decoration: none;
 }
 
 #scrolling-clients {
