@@ -53,12 +53,12 @@ h6 {
 
 // Highlight color customization
 ::-moz-selection {
-  background: $ncb-blue-2 20%;
+  background: $ncb-selection;
   text-shadow: none;
 }
 
 ::selection {
-  background: $ncb-blue-2 20%;
+  background: $ncb-selection;
   text-shadow: none;
 }
 
