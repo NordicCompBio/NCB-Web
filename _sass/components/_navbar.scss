@@ -32,7 +32,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $primary;
+          color: $ncb-blue-2;
         }
       }
     }
@@ -40,8 +40,8 @@
 }
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
@@ -63,7 +63,7 @@
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
-      background-color: $gray-900;
+      background-color: $primary;
       .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;
@@ -75,7 +75,7 @@
 /* Custom Sign Up Button */
 .menu-btn {
   padding: 0.75em 1.2em;  /* same vertical rhythm */
-  font-size: 90%;         /* match nav-link font size */  background: #e67e22;
+  font-size: 90%;         /* match nav-link font size */  background: $ncb-blue-2;//#e67e22;
   color: white !important;
   border-radius: 8px;
   font-weight: bold;
