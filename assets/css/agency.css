@@ -174,25 +174,16 @@ img::-moz-selection {
   text-decoration: none;
 }
 
-#col-md-3 col-sm-6 {
-  flex: 0 0 auto;
-}
-
 #scrolling-clients {
   display: flex;
   flex-wrap: nowrap;
-  overflow: hidden;
+  overflow-x: scroll;
+  overflow-y: hidden;
   animation: scroll 40s linear infinite;
 }
 
-#scrolling-clients > div {
+#col-md-3 col-sm-6 {
   flex: 0 0 auto;
-  padding: 0 20px;
-}
-
-#scrolling-clients img {
-  max-height: 70px;
-  object-fit: contain;
 }
 
 @keyframes scroll {
