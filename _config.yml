@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://nordiccompbio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/NCB-Web" # the subpath of your site, e.g. /blog
 
 title      : Nordic CompBio
 email      : nordic.compbio@gmail.com #this is also the email contact forms will go to
