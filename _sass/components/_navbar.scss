@@ -74,17 +74,17 @@
 
 /* Custom Sign Up Button */
 .menu-btn {
-  padding:  0.75em 0;
-  background: #e67e22;
+  padding: 0.75em 1.2em;  /* same vertical rhythm */
+  font-size: 90%;         /* match nav-link font size */  background: #e67e22;
   color: white !important;
-  border-radius: 0;
+  border-radius: 8px;
   font-weight: bold;
   text-decoration: none !important;
-  margin-left: 15px;   /* spacing from last menu item */
-  display: inline-block;
+  margin-left: 15px;
+  display: inline-block;   /* ensure it doesn’t break line */
+  align-self: center;      /* keeps it vertically aligned in flex */
   transition: all 0.3s ease;
 }
-
 .menu-btn:hover {
   background: #cf6d17;
   color: white !important;
