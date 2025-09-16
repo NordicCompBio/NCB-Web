@@ -50,12 +50,12 @@ en: &DEFAULT_EN
       - title: "NCB Week 2024 (4-8 November)"
         year: "2024"
         desc: "Hybrid conference organized by Marcel Tarbier (Sweden) and Ahmed Mohamed Eltourkey (Finland)"
-        image: assets/img/NCB_Events/NCB_Finland_2024.jpg
+        image: assets/img/NCB_Events/NCB_Finland_2024_Square.png
         alt:
       - title: "NCB Week 2023 (6-10 November)"
         year: "2023"
         desc: "Hybrid conference organized by Shilpa Garg (Denmark), Ahmed Mohamed Eltourkey (Finland), Luca Giudice (Finland), and Marcel Tarbier (Sweden)"
-        image: assets/img/Site_Files/Finland_NCBWeek2023_edited.jpg
+        image: assets/img/NCB_Events/NCB_Finland_2023_Square.png
         alt: image alt text
       - title: "Norwegian Bioinformatics Days (28-30 September)"
         year: "2022"
