@@ -154,10 +154,10 @@ img::-moz-selection {
 }
 /* Custom Sign Up Button */
 .menu-btn {
-  padding: 10px 20px;
+  padding: 0.75em 0;
   background: #e67e22;
   color: white !important;
-  border-radius: 8px;
+  border-radius: 0;
   font-weight: bold;
   text-decoration: none !important;
   margin-left: 15px; /* spacing from last menu item */
