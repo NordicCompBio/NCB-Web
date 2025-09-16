@@ -174,40 +174,49 @@ img::-moz-selection {
   text-decoration: none;
 }
 
-#scrolling-clients {
-  display: flex;
-  flex-wrap: nowrap;
-  overflow-x: scroll;
-  overflow-y: hidden;
-}
-
 #col-md-3 col-sm-6 {
   flex: 0 0 auto;
 }
 
 #scrolling-clients {
-  display: flex;
-  flex-wrap: nowrap;
-  overflow: hidden;
-  animation: scroll 40s linear infinite;
+  display: flex !important;
+  flex-wrap: nowrap !important; /* all logos stay on one line */
+  align-items: center;
+  gap: 40px; /* spacing between logos */
+  overflow: hidden; /* hide the overflowing part */
+  box-sizing: border-box;
+  animation: marquee 25s linear infinite;
+  will-change: transform;
 }
 
-#scrolling-clients > div {
-  flex: 0 0 auto;
-  padding: 0 20px;
+/* Make any Bootstrap column inside the row keep its natural width */
+#scrolling-clients > div[class*=col-] {
+  flex: 0 0 auto !important;
+  width: auto !important;
+  padding-left: 0;
+  padding-right: 0;
 }
 
+/* Logo sizing */
 #scrolling-clients img {
   max-height: 70px;
+  display: block;
+  margin: 0 auto;
   object-fit: contain;
 }
 
-@keyframes scroll {
-  0% {
+/* Pause on hover (nice UX) */
+#scrolling-clients:hover {
+  animation-play-state: paused;
+}
+
+/* Scroll animation — simple loop (will "jump" back when it restarts) */
+@keyframes marquee {
+  from {
     transform: translateX(0);
   }
-  100% {
-    transform: translateX(-50%);
+  to {
+    transform: translateX(-100%);
   }
 }
 header.masthead {
