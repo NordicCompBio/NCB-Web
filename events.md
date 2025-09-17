@@ -118,12 +118,12 @@ Please send your promotional materials and event details to info@nordic-compbio.
   <p><strong>NCB Week 2023: 6-10 november</strong></p>
   <p>The conference started off with the Swedish Bioinformatics Workshop in Stockholm (6-7 nov), followed by the programme in Lyngby Denmark (8-9 nov) and ended with a one-day event in, Kuopio Finland (10 nov). We were glad to see so many of you there!</p>
   <p>Big thanks to the conference team for putting together the programme; Shilpa Garg (Denmark), Ahmed Eltourkey (Finland), Luca Giudice (Finland), and Marcel Tarbier (Sweden). The idea was initiated by Nazeefa Fatima (Norway) and coordinated with Johan Österlund (Sweden).</p>
-<div style="text-align: center; margin-bottom: 120px;">
+<div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/img/NCB_Events/Registration NCBWeek 2023 SWE-NOR-DK BLACK.png" alt="Event Poster" style="max-width:600px; width:100%; height:auto; border-radius:8px;">
   <p style="margin-top:10px;">Image: Registrants for online attendance for NCB Week 2023.</p>
 </div>
 
-<div style="text-align: center; margin-bottom: 120px;">
+<div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/img/NCB_Events/Finland_NCBWeek2023_Stats.png" alt="Keynote Session" style="max-width:600px; width:100%; height:auto; border-radius:8px;">
   <p style="margin-top:10px;">Image: Feedback for NCB Week 2023.</p>
 </div>
@@ -132,7 +132,7 @@ Please send your promotional materials and event details to info@nordic-compbio.
 <br>
 <br>
 <!-- Sponsor -->
-<div style="text-align: center; margin: 40px 0; width: 100%; background-color: #002233; padding: 20px 0; box-sizing: border-box;">
+<div style="text-align: center; margin: 40px 0; width: 100%; background-color: #002233; padding: 20px 0;">
     <h2 style="color: white; font-weight: bold; margin: 0;">
       NCB Sponsors
     </h2>
@@ -153,7 +153,6 @@ Please send your promotional materials and event details to info@nordic-compbio.
       Read more and become a sponsor
     </a>
 </div>
-<br>
 <br>
 <!-- Main sponsor section full-width -->
 <div style="width: 100%; background-color: #FFFFFF; padding: 40px 20px; box-sizing: border-box;">
