@@ -58,9 +58,9 @@ Please send your promotional materials and event details to info@nordic-compbio.
     <p>More information about transportation and parking can be found here.</p>
     <p><u>You have the opportunity to attend and present your work there too.</u></p>
     <p><u><strong>Abstract submission is open until 20th of October 2024 23:59 EEST.</strong></u></p>
-    <p><u>Registration is still open.</u></p>
+    <p><u>Registration is closed now.</u></p>
 
-    <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+  <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
       <a href="" target="_blank" 
          style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
         <strong>Register Now</strong>
@@ -75,13 +75,10 @@ Please send your promotional materials and event details to info@nordic-compbio.
         </a>
     </div>
 
-    <div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top:30px;">
+  <div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top:30px;">
       <img src="{{ '/assets/img/External_Logos/UEF_white on black.jpg' | relative_url }}" alt="UEF" style="height:100px;">
       <img src="{{ '/assets/img/External_Logos/HY__TN23_farmaL_EN_B3____BW.png' | relative_url }}" alt="University of Helsinki" style="height:100px;">
     </div>
-  </div>
-
-</div>
 <br>
 <br>
 
@@ -94,10 +91,11 @@ Please send your promotional materials and event details to info@nordic-compbio.
     </h2>
   </div>
   <br>
-  <p><strong>27-28 Oct: Aalborg</strong></p>
-  <p>The event is organized by ELIXIR Denmark and sponsored by Novo Nordisk, Biolib and ZS Discovery. It is funded by Danish Data Science Academy (DDSA).</p>
-  <p>It aims to be a dynamic forum for the bioinformatics community, including data scientists, statisticians, software developers, and wet lab scientists. This conference has been an excellent platform to exchange about the latest research and tools development in Danish bioinformatics. You will have the chance to learn, connect, and stay up-to-date with the most cutting-edge developments in the field.</p>
-  <p>The conference is planned to start at 12:00 on Monday, October 27 and end at 16:30 on Tuesday, October 28.​</p>
+  <p><strong>4-5 Nov: Uppsala</strong></p>
+  <p>The Swedish Bioinformatics Workshop (SBW) is the largest conference Sweden within the field of bioinformatics and computational biology. </p>
+  <p>This year, the event will be hosted in Uppsala at the lovely <strong>Swedish University of Agricultural Sciences (SLU)</strong> in Uppsala. Senior scientists and non-academic participants from Nordic regions are warmly welcome to attend.</p>
+  <p>More information about the event can be found at the event website: 
+  <a href="https://www.sbw2024.org/" target="_blank">https://www.sbw2024.org/</a></p>
 
   <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
     <a href="https://eventsignup.ku.dk/9danishbioinfconference" target="_blank" style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
@@ -105,4 +103,41 @@ Please send your promotional materials and event details to info@nordic-compbio.
     </a>
   </div>
 </div>
+<br>
+<br>
+<br>
+<br>
 
+<div style="background:#e0e0e0; padding:40px; width:100%; box-sizing:border-box;">
+  <div style="display:flex; align-items:center; gap:15px;">
+    <h2 style="font-size:28px; color:#2980b9; margin:0;">
+      2023
+    </h2>
+  </div>
+  <br>
+  <p><strong>NCB Week 2023: 6-10 november</strong></p>
+  <p>The conference started off with the Swedish Bioinformatics Workshop in Stockholm (6-7 nov), followed by the programme in Lyngby Denmark (8-9 nov) and ended with a one-day event in, Kuopio Finland (10 nov). We were glad to see so many of you there!</p>
+  <p>Big thanks to the conference team for putting together the programme; Shilpa Garg (Denmark), Ahmed Eltourkey (Finland), Luca Giudice (Finland), and Marcel Tarbier (Sweden). The idea was initiated by Nazeefa Fatima (Norway) and coordinated with Johan Österlund (Sweden).</p>
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="/assets/img/NCB_Events/Registration NCBWeek 2023 SWE-NOR-DK BLACK.png" alt="Event Poster" style="max-width:300px; border-radius:8px;">
+  <p style="margin-top:10px;">Image: Registrants for online attendance for NCB Week 2023.</p>
+</div>
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="/assets/img/NCB_Events/Finland_NCBWeek2023_Stats.png" alt="Keynote Session" style="max-width:300px; border-radius:8px;">
+  <p style="margin-top:10px;">Image: Feedback for NCB Week 2023.</p>
+</div>
+
+</div>
+
+<div style="text-align: center; margin: 40px 0;">
+  <div style="display: inline-block; background-color: #002233; padding: 20px 40px; border-radius: 10px;">
+    <h2 style="color: white; font-weight: bold; margin: 0;">
+      NCB Sponsors
+    </h2>
+  </div>
+</div>
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="/assets/img/External_Logos/nordic-e-infrastructure-collaboration-neic-vector-logo.png" alt="Keynote Session" style="max-width:300px; border-radius:8px;">
+  <p style="margin-top:10px;">MAIN SPONSOR</p>
+</div>

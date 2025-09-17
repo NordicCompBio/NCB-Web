@@ -10,6 +10,48 @@ title: NCB Week
   }
 </style>
 
+<!-- Hero Section -->
+<div style="
+    background-image: url('/assets/img/nordic-glacier-hero-banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;  /* adjust height as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    position: relative;
+">
+  
+  <!-- Centered Heading -->
+  <h1 style="font-size: 48px; font-weight: bold; margin: 0 20px;">
+    NCB Week
+  </h1>
+
+  <!-- Colored Box with Text & Hyperlink -->
+  <div style="
+      background-color: rgba(0, 34, 51, 0.8);  /* semi-transparent orange */
+      padding: 15px 30px;
+      border-radius: 10px;
+      margin-top: 20px;
+      display: inline-block;
+  ">
+    <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.nordic-compbio.org/_files/ugd/f7e105_581980246f4b434499725fde3c8006e6.pdf" target="_blank" style="
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 18px;
+    ">
+      We follow the Code of Conduct for all our events
+    </a>
+  </div>
+
+</div>
+
+
 <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px;">
   <img src="{{ '/assets/img/Flags/AllNordicsFlags.png' | relative_url }}" 
        alt="Flags of Nordic countries" 
