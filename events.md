@@ -132,7 +132,7 @@ Please send your promotional materials and event details to info@nordic-compbio.
 <br>
 <br>
 <!-- Sponsor -->
-<div style="text-align: center; margin: 40px 0; width: 100vw; background-color: #002233; padding: 20px 0;">
+<div style="text-align: center; margin: 40px 0; width: 100vw; background-color: #002233; padding: 20px 0; box-sizing: border-box;">
     <h2 style="color: white; font-weight: bold; margin: 0;">
       NCB Sponsors
     </h2>
