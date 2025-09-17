@@ -1,4 +1,3 @@
-@charset "UTF-8";
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -52,12 +51,12 @@ h6 {
   }
 }
 ::-moz-selection {
-  background: #b6d9f7;
+  background: #042d50;
   text-shadow: none;
 }
 
 ::selection {
-  background: #b6d9f7;
+  background: #042d50;
   text-shadow: none;
 }
 
@@ -93,7 +92,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #042d50;
+  background-color: #212529;
 }
 #mainNav .navbar-toggler {
   font-size: 12px;
@@ -121,13 +120,13 @@ img::-moz-selection {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #b6d9f7;
+  color: #042d50;
 }
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
@@ -146,34 +145,13 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #042d50;
+    background-color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
     padding: 12px 0;
   }
 }
-/* Custom Sign Up Button */
-.menu-btn {
-  padding: 0.75em 1.2em; /* same vertical rhythm */
-  font-size: 90%; /* match nav-link font size */
-  background: #1d4c73;
-  color: white !important;
-  border-radius: 8px;
-  font-weight: bold;
-  text-decoration: none !important;
-  margin-left: 15px;
-  display: inline-block; /* ensure it doesn’t break line */
-  align-self: center; /* keeps it vertically aligned in flex */
-  transition: all 0.3s ease;
-}
-
-.menu-btn:hover {
-  background: #143b5c;
-  color: white !important;
-  text-decoration: none;
-}
-
 #scrolling-clients {
   display: flex;
   flex-wrap: nowrap;
@@ -185,18 +163,10 @@ img::-moz-selection {
   flex: 0 0 auto;
 }
 
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
 header.masthead {
   text-align: center;
-  color: #f8f9fa;
-  background-image: url("https://nordiccompbio.github.io/NCB-Web/assets/img/nordic-glacier-hero-banner.jpg");
+  color: white;
+  background-image: url("./assets/img/nordic-glacier-hero-banner.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -212,7 +182,6 @@ header.masthead .intro-text .intro-lead-in {
   line-height: 22px;
   margin-bottom: 25px;
   font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
 }
 header.masthead .intro-text .intro-heading {
   font-size: 50px;
@@ -220,7 +189,6 @@ header.masthead .intro-text .intro-heading {
   line-height: 50px;
   margin-bottom: 25px;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
 }
 
 @media (min-width: 768px) {
@@ -234,15 +202,13 @@ header.masthead .intro-text .intro-heading {
     line-height: 40px;
     margin-bottom: 25px;
     font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
   }
   header.masthead .intro-text .intro-heading {
-    font-size: 50px;
+    font-size: 75px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 75px;
     margin-bottom: 50px;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
   }
 }
 .service-heading {
@@ -587,7 +553,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("https://nordiccompbio.github.io/NCB-Web/assets/img/contact_bg.jpg");
+  background-image: url("./assets/img/contact_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
