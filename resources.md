@@ -3,4 +3,97 @@ layout: page
 title: NCB Resources
 ---
 
-<h1 style="font-size:48px; color:#2c3e50;">Coming Soon</h1>  
+<h1 style="font-size:48px; color:#2c3e50;">Nordic CompBio Resources</h1>  
+
+One of the aims of NCB is to provide a list of useful resources for people based in the Nordics and those who want to pursue education and career here. If you would like to list any educational resources here, you can contact us using the form on the homepage.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 40px 0;">
+
+  <!-- Column 1 -->
+  <div style="flex: 0 0 48%; margin-bottom: 30px;">
+    <!-- Country 1 -->
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; align-items: center;">
+        <img src="/assets/img/Flags/Finland flag.png" alt="Finland Flag" style="margin-right: 10px;">
+        <strong>Finland</strong>
+      </div>
+      <ul style="margin: 8px 0 0 30px; padding: 0;">
+        <li><a href="https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme" target="_blank">- MSc LIFE SCIENCE INFORMATICS, UNIVERSITY OF HELSINKI</a></li>
+        <li><a href="https://www.helsinki.fi/en/degree-programmes/genetics-and-molecular-biosciences-masters-programme" target="_blank">- MSc GENETICS AND MOLECULAR BIOSCIENCES, UNIVERSITY OF HELSINKI</a></li>
+        <li><a href="https://www.aalto.fi/en/study-options/life-science-technologies-master-of-science-technology" target="_blank">- MSc LIFE SCIENCE TECHNOLOGIES, AALTO UNIVERSITY</a></li>
+        <li><a href="https://www.uef.fi/en/degree-programme/masters-degree-programme-in-toxicology" target="_blank">- MSc TOXICOLOGY, UNIVERSITY OF EASTERN FINLAND</a></li>
+        <li><a href="https://www.uef.fi/en/degree-programme/masters-degree-programme-in-biomedicine" target="_blank">- MSc BIOMEDICINE, UNIVERSITY OF EASTERN FINLAND</a></li>
+        <li><a href="https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biosciences-evolutionary-biology" target="_blank">- MSc BIOSCIENCES: EVOLUTIONARY BIOLOGY, UNIVERSITY OF TURKU</a></li>
+        <li><a href="https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biomedical-sciences-drug-discovery-and-development" target="_blank">- MSc BIOMEDICAL SCIENCES: DRUG DISCOVERY AND DEVELOPMENT, UNIVERSITY OF TURKU</a></li>
+        <li><a href="https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biosciences-molecular-systems-biology" target="_blank">- MSc BIOSCIENCES: MOLECULAR SYSTEMS BIOLOGY, UNIVERSITY OF TURKU</a></li>
+        <li><a href="https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-chemistry-of-drug-development" target="_blank">- MSc EXACT SCIENCES: CHEMISTRY OF DRUG DEVELOPMENT, UNIVERSITY OF TURKU</a></li>
+        <li><a href="https://www.oulu.fi/en/apply/masters-epidemiology-and-biomedical-data-science" target="_blank">- MSc EPIDEMIOLOGY AND BIOMEDICAL DATA SCIENCE, UNIVERSITY OF OULU</a></li>
+        <li><a href="https://sites.utu.fi/microbiomesummerschool/" target="_blank">- MICROBIOME SUMMER SCHOOL, UNIVERSITY OF TURKU</a></li>
+      </ul>
+    </div>
+    <!-- Country 2 -->
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; align-items: center;">
+        <img src="/assets/img/Flags/Flag_of_Norway.png" alt="Norway Flag" style="margin-right: 10px;">
+        <strong>Norway</strong>
+      </div>
+      <ul style="margin: 8px 0 0 30px; padding: 0;">
+        <li><a href="https://www.uib.no/en/rg/bioinformatics/114033/bachelor" target="_blank">- BSc BIOINFORMATICS, UNIVERSITY OF BERGEN</a></li>
+        <li><a href="https://www.uib.no/en/rg/bioinformatics/114034/master" target="_blank">- MSc BIOINFORMATICS, UNIVERSITY OF BERGEN</a></li>
+        <li><a href="https://www.uio.no/english/studies/programmes/computational-science-master/programme-options/bioinformatics/index.html" target="_blank">- MSc COMPUTATIONAL SCIENCE, UNIVERSITY OF OSLO</a></li>
+      </ul>
+    </div>
+    <!-- Country 3 -->
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; align-items: center;">
+        <img src="/assets/img/Flags/Denmark flag.png" alt="Denmark Flag" style="margin-right: 10px;">
+        <strong>Denmark</strong>
+      </div>
+      <ul style="margin: 8px 0 0 30px; padding: 0;">
+        <li><a href="https://www.ku.dk/studies/masters/bioinformatics" target="_blank">- MSc BIOINFORMATICS, UNIVERSITY OF COPENHAGEN</a></li>
+        <li><a href="https://www.dtu.dk/english/education/graduate/msc-programmes/bioinformatics" target="_blank">- MSc BIOINFORMATICS & SYSTEMS BIOLOGY, DANMARKS TEKNISKE UNIVERSITET</a></li>
+      </ul>
+    </div>
+
+  </div>
+  <!-- Column 2 -->
+  <div style="flex: 0 0 48%; margin-bottom: 30px;">
+    <!-- Country 4 -->
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; align-items: center;">
+        <img src="/assets/img/Flags/Sweden flag.png" alt="Sweden Flag" style="margin-right: 10px;">
+        <strong>Sweden</strong>
+      </div>
+      <ul style="margin: 8px 0 0 30px; padding: 0;">
+        <li><a href="https://www.his.se/en/molecular-bioinformatics-180/" target="_blank">- BSc MOLECULAR BIOINFORMATICS, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://www.his.se/en/education/bioscience/molecular-biodesign-molbg/" target="_blank">- BSc MOLECULAR BIODESIGN, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF/18010" target="_blank">- MSc BIOINFORMATICS, LUND UNIVERSITY </a></li>
+        <li><a href="https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NATBE-TBBO/18180" target="_blank">- MSc APPLIED COMPUTATIONAL SCIENCE-BIOLOGY, LUND UNIVERSITY </a></li>
+        <li><a href="https://www.gu.se/en/study-gothenburg/bioinformatics-and-functional-genomics-bio210" target="_blank">- MSc BIOINFORMATICS AND FUNCTIONAL GENOMICS, UNIVERSITY OF GOTHENBURG</a></li>
+        <li><a href="https://www.uu.se/en/study/programme/masters-programme-bioinformatics-biology-background" target="_blank">- MSc BIOINFORMATICS-BIOLOGY BACKGROUND, UPPSALA UNIVERSITY</a></li>
+        <li><a href="https://www.uu.se/en/study/programme/masters-programme-bioinformatics-computer-science-background" target="_blank">- MSc BIOINFORMATICS-COMPUTER SCIENCE BACKGROUND, UPPSALA UNIVERSITY</a></li>
+        <li><a href="https://www.uu.se/en/study/programme/masters-programme-infection-biology" target="_blank">- MSc INFECTION BIOLOGY, UPPSALA UNIVERSITY</a></li>
+        <li><a href="https://www.uu.se/en/study/programme/masters-programme-precision-medicine" target="_blank">- MSc PRECISION MEDICINE, UPPSALA UNIVERSITY</a></li>
+        <li><a href="https://www.his.se/en/education/bioscience/bioinformatics-masters-programme-biima/" target="_blank">- MSc BIOINFORMATICS, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://www.his.se/en/biomarkers-120" target="_blank">- MSc BIOMARKERS IN MOLECULAR MEDICINE, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://www.his.se/en/systems-biology-bioinformatics-120" target="_blank">- MSc SYSTEMS BIOLOGY WITH SPECIALIZATION IN BIOINFORMATICS, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://www.his.se/en/molecular-biotechnology-120" target="_blank">- MSc MOLECULAR BIOTECHNOLOGY, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://www.his.se/en/infection-biology-120" target="_blank">- MSc INFECTION BIOLOGY, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://www.his.se/en/molecular-ecology-120" target="_blank">- MSc MOLECULAR ECOLOGY, UNIVERSITY OF SKÖVDE</a></li>
+        <li><a href="https://utbildning.su.se/english/education/course-catalogue/nb/nbbko?eventcode=53000&semester=HT2024" target="_blank">- MSc BIOCHEMISTRY WITH SPECIALIZATION IN PROTEIN CHEMISTRY, UNIVERSITY OF STOCKHOLM</a></li>
+        <li><a href="https://www.oru.se/english/study/master-students/masters-programmes/masters-programme-in-experimental-medicine/" target="_blank">- MSc EXPERIMENTAL MEDICINE, UNIVERSITY OF ÖREBRO</a></li>
+      </ul>
+    </div>
+    <!-- Country 5 -->
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; align-items: center;">
+        <img src="/assets/img/Flags/Iceland.png" alt="Iceland Flag" style="margin-right: 10px;">
+        <strong>Iceland</strong>
+      </div>
+      <ul style="margin: 8px 0 0 30px; padding: 0;">
+        <li><a href="https://english.hi.is/bioinformatics/ms" target="_blank">- MSc BIOINFORMATICS, UNIVERSITY OF ICELAND</a></li>
+      </ul>
+    </div>
+
+  </div>
+</div>
