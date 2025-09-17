@@ -45,6 +45,7 @@ One of the aims of NCB is to provide a list of useful resources for people based
         <li><a href="https://www.uio.no/english/studies/programmes/computational-science-master/programme-options/bioinformatics/index.html" target="_blank">MSc COMPUTATIONAL SCIENCE, UNIVERSITY OF OSLO</a></li>
       </ul>
     </div>
+    <br>
     <!-- Country 3 -->
     <div style="margin-bottom: 20px;">
       <div style="display: flex; align-items: center;">
@@ -56,7 +57,7 @@ One of the aims of NCB is to provide a list of useful resources for people based
         <li><a href="https://www.dtu.dk/english/education/graduate/msc-programmes/bioinformatics" target="_blank">MSc BIOINFORMATICS & SYSTEMS BIOLOGY, DANMARKS TEKNISKE UNIVERSITET</a></li>
       </ul>
     </div>
-
+    <br>
   </div>
   <!-- Column 2 -->
   <div style="flex: 0 0 48%; margin-bottom: 30px;">
@@ -86,6 +87,7 @@ One of the aims of NCB is to provide a list of useful resources for people based
         <li><a href="https://www.oru.se/english/study/master-students/masters-programmes/masters-programme-in-experimental-medicine/" target="_blank">MSc EXPERIMENTAL MEDICINE, UNIVERSITY OF ÖREBRO</a></li>
       </ul>
     </div>
+    <br>
     <!-- Country 5 -->
     <div style="margin-bottom: 20px;">
       <div style="display: flex; align-items: center;">
