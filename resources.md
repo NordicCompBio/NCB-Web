@@ -14,8 +14,8 @@ One of the aims of NCB is to provide a list of useful resources for people based
     <!-- Country 1 -->
     <div style="margin-bottom: 20px;">
       <div style="display: flex; align-items: center;">
-        <img src="/assets/img/Flags/Finland flag.png" alt="Finland Flag" style="width: 25px; height: auto; margin-right: 10px;">
-        <strong> style="font-size: 20px;">Finland</strong>
+        <img src="/assets/img/Flags/Finland flag.png" alt="Finland Flag" style="width: 100px; height: auto; margin-right: 10px;">
+        <strong style="font-size: 20px;">Finland</strong>
       </div>
       <br>
       <ul style="margin: 8px 0 0 30px; padding: 0;">
@@ -36,8 +36,8 @@ One of the aims of NCB is to provide a list of useful resources for people based
     <!-- Country 2 -->
     <div style="margin-bottom: 20px;">
       <div style="display: flex; align-items: center;">
-        <img src="/assets/img/Flags/Flag_of_Norway.png" alt="Norway Flag" style="width: 25px; height: auto; margin-right: 10px;">
-        <strong> style="font-size: 20px;">Norway</strong>
+        <img src="/assets/img/Flags/Flag_of_Norway.png" alt="Norway Flag" style="width: 100px; height: auto; margin-right: 10px;">
+        <strong style="font-size: 20px;">Norway</strong>
       </div>
       <ul style="margin: 8px 0 0 30px; padding: 0;">
         <li><a href="https://www.uib.no/en/rg/bioinformatics/114033/bachelor" target="_blank">BSc BIOINFORMATICS, UNIVERSITY OF BERGEN</a></li>
@@ -48,8 +48,8 @@ One of the aims of NCB is to provide a list of useful resources for people based
     <!-- Country 3 -->
     <div style="margin-bottom: 20px;">
       <div style="display: flex; align-items: center;">
-        <img src="/assets/img/Flags/Denmark flag.png" alt="Denmark Flag" style="width: 25px; height: auto; margin-right: 10px;">
-        <strong> style="font-size: 20px;">Denmark</strong>
+        <img src="/assets/img/Flags/Denmark flag.png" alt="Denmark Flag" style="width: 100px; height: auto; margin-right: 10px;">
+        <strong style="font-size: 20px;">Denmark</strong>
       </div>
       <ul style="margin: 8px 0 0 30px; padding: 0;">
         <li><a href="https://www.ku.dk/studies/masters/bioinformatics" target="_blank">MSc BIOINFORMATICS, UNIVERSITY OF COPENHAGEN</a></li>
@@ -63,8 +63,8 @@ One of the aims of NCB is to provide a list of useful resources for people based
     <!-- Country 4 -->
     <div style="margin-bottom: 20px;">
       <div style="display: flex; align-items: center;">
-        <img src="/assets/img/Flags/Sweden flag.png" alt="Sweden Flag" style="width: 25px; height: auto; margin-right: 10px;">
-        <strong> style="font-size: 20px;">Sweden</strong>
+        <img src="/assets/img/Flags/Sweden flag.png" alt="Sweden Flag" style="width: 100px; height: auto; margin-right: 10px;">
+        <strong style="font-size: 20px;">Sweden</strong>
       </div>
       <ul style="margin: 8px 0 0 30px; padding: 0;">
         <li><a href="https://www.his.se/en/molecular-bioinformatics-180/" target="_blank">BSc MOLECULAR BIOINFORMATICS, UNIVERSITY OF SKÖVDE</a></li>
@@ -89,8 +89,8 @@ One of the aims of NCB is to provide a list of useful resources for people based
     <!-- Country 5 -->
     <div style="margin-bottom: 20px;">
       <div style="display: flex; align-items: center;">
-        <img src="/assets/img/Flags/Iceland.png" alt="Iceland Flag" style="width: 25px; height: auto; margin-right: 10px;">
-        <strong> style="font-size: 20px;">Iceland</strong>
+        <img src="/assets/img/Flags/Iceland.png" alt="Iceland Flag" style="width: 100px; height: auto; margin-right: 10px;">
+        <strong style="font-size: 20px;">Iceland</strong>
       </div>
       <ul style="margin: 8px 0 0 30px; padding: 0;">
         <li><a href="https://english.hi.is/bioinformatics/ms" target="_blank">MSc BIOINFORMATICS, UNIVERSITY OF ICELAND</a></li>
