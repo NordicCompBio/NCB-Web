@@ -196,7 +196,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: #f8f9fa;
-  background-image: url("https://nordiccompbio.github.io/NCB-Web/assets/img/nordic-glacier-hero-banner.jpg");
+  background-image: url("assets/img/nordic-glacier-hero-banner.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -587,7 +587,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("https://nordiccompbio.github.io/NCB-Web/assets/img/contact_bg.jpg");
+  background-image: url("assets/img/contact_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
