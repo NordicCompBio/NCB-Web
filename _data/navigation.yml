@@ -20,11 +20,11 @@ en: &DEFAULT_EN
     - title: "Events"
       url: "/events"
     - title: "NCB Week"
-      url: "/NCBweek"
+      url: "/ncb-week"
     - title: "Our Team"
       url: "/team"
     - title: "Privacy Policy"
-      url: "/privacy"
+      url: "/privacy-policy"
     - title: "Sign Up"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSdlkCWgLYHruRqYUZRzkDOETeyZ2pWOc08fIGK0L01Cpd6L7Q/viewform?usp=send_form"
       is_button: true
