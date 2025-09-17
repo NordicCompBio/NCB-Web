@@ -21,6 +21,9 @@ jobs:
         run: |
           gem install bundler jekyll
           bundle install
+ 
+      - name: Generate Git commit hash
+        run: ruby build_hash.rb
 
       - name: Build site
         run: bundle exec jekyll build
