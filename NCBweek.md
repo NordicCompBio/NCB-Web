@@ -12,7 +12,7 @@ title: NCB Week
 
 <!-- Hero Section -->
 <div style="
-    background-image: url('/assets/img/nordic-glacier-hero-banner.jpg');
+    background-image: url('https://nordiccompbio.github.io/NCB-Web/assets/img/nordic-glacier-hero-banner.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@ title: NCB Week
       margin-top: 20px;
       display: inline-block;
   ">
-    <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.nordic-compbio.org/_files/ugd/f7e105_581980246f4b434499725fde3c8006e6.pdf" target="_blank" style="
+    <a href="https://drive.google.com/file/d/1GJPTga54ge_ewOObQPOU7Nw9jelr_wAS/view" target="_blank" style="
         color: white;
         font-weight: bold;
         text-decoration: none;
