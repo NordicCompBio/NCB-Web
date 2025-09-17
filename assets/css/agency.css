@@ -166,7 +166,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("./assets/img/nordic-glacier-hero-banner.jpg");
+  background-image: url("assets/img/nordic-glacier-hero-banner.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -553,7 +553,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("./assets/img/contact_bg.jpg");
+  background-image: url("assets/img/contact_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
