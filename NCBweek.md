@@ -12,8 +12,7 @@ title: NCB Week
 
 <!-- Hero Section -->
 <div style="
-    width: 100vw;
-    box-sizing: border-box;
+    width: 100%;
     background-image: url('assets/img/nordic-glacier-hero-banner.jpg');
     background-size: cover;
     background-position: center;
