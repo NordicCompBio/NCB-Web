@@ -97,6 +97,7 @@ title: Our Team
 <div style="
     background-color: #000000; 
     color: white; 
+    width: 100%;
     text-align: center; 
     padding: 60px 20px;
     border-radius: 12px;
@@ -110,7 +111,7 @@ title: Our Team
 
   <!-- Text under heading -->
   <p style="font-size: 18px; margin-bottom: 30px;">
-    If you are interested in NCB, join our community and stay connected!
+    Submit your interest in joining the Nordic CompBio Team through our membership form. 
   </p>
 
   <!-- Join Us button -->

@@ -30,7 +30,7 @@ Please send your promotional materials and event details to info@nordic-compbio.
 
 <h1 style="font-size:36px; color:#2c3e50;">Previous events</h1>  
 
-<div style="background:#cad1d9; padding:40px; display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start;">
+<div style="background:#cad1d9; width: 100%; padding:40px; display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start;">
 
   <img src="{{ '/assets/img/Flags/Finland flag.png' | relative_url }}" 
        alt="Flags of Finland and Estonia" 
@@ -83,7 +83,7 @@ Please send your promotional materials and event details to info@nordic-compbio.
 <br>
 
 
-<div style="background:#FFFFFF; padding:40px; width:100%; box-sizing:border-box;">
+<div style="background:#FFFFFF; padding:40px; width:100%;">
   <div style="display:flex; align-items:center; gap:15px;">
     <img src="{{ '/assets/img/Flags/Sweden flag.png' | relative_url }}" alt="Flags of Denmark" style="height:70px;">
     <h2 style="font-size:28px; color:#2980b9; margin:0;">
@@ -108,7 +108,7 @@ Please send your promotional materials and event details to info@nordic-compbio.
 <br>
 <br>
 
-<div style="background:#e0e0e0; padding:40px; width:100%; box-sizing:border-box;">
+<div style="background:#e0e0e0; padding:40px; width:100%; ">
   <div style="display:flex; align-items:center; gap:15px;">
     <h2 style="font-size:28px; color:#2980b9; margin:0;">
       2023
@@ -118,21 +118,21 @@ Please send your promotional materials and event details to info@nordic-compbio.
   <p><strong>NCB Week 2023: 6-10 november</strong></p>
   <p>The conference started off with the Swedish Bioinformatics Workshop in Stockholm (6-7 nov), followed by the programme in Lyngby Denmark (8-9 nov) and ended with a one-day event in, Kuopio Finland (10 nov). We were glad to see so many of you there!</p>
   <p>Big thanks to the conference team for putting together the programme; Shilpa Garg (Denmark), Ahmed Eltourkey (Finland), Luca Giudice (Finland), and Marcel Tarbier (Sweden). The idea was initiated by Nazeefa Fatima (Norway) and coordinated with Johan Österlund (Sweden).</p>
-<div style="text-align: center; margin-bottom: 30px;">
+<div style="text-align: center; margin-bottom: 120px;">
   <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/NCB_Events/Registration NCBWeek 2023 SWE-NOR-DK BLACK.png" alt="Event Poster" style="max-width:300px; border-radius:8px;">
   <p style="margin-top:10px;">Image: Registrants for online attendance for NCB Week 2023.</p>
 </div>
 
-<div style="text-align: center; margin-bottom: 30px;">
+<div style="text-align: center; margin-bottom: 120px;">
   <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/NCB_Events/Finland_NCBWeek2023_Stats.png" alt="Keynote Session" style="max-width:300px; border-radius:8px;">
   <p style="margin-top:10px;">Image: Feedback for NCB Week 2023.</p>
 </div>
 
 </div>
-
+<br>
+<br>
 <!-- Sponsor -->
-<div style="text-align: center; margin: 40px 0;">
-  <div style="display: inline-block; background-color: #002233; padding: 20px 40px; border-radius: 10px;">
+<div style="text-align: center; margin: 40px 0; width: 100%; background-color: #002233; padding: 20px 0;">
     <h2 style="color: white; font-weight: bold; margin: 0;">
       NCB Sponsors
     </h2>
@@ -152,51 +152,55 @@ Please send your promotional materials and event details to info@nordic-compbio.
     " onmouseover="this.style.backgroundColor='#cf6d17'" onmouseout="this.style.backgroundColor='#e67e22'">
       Read more and become a sponsor
     </a>
+</div>
+<br>
+<br>
+<!-- Main sponsor section full-width -->
+<div style="width: 100%; background-color: #FFFFFF; padding: 40px 20px; box-sizing: border-box;">
+  <div style="text-align: center; max-width: 800px; margin: 0 auto;">
+    <!-- Sponsor logo -->
+    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/nordic-e-infrastructure-collaboration-neic-vector-logo.png" 
+         alt="Keynote Session" style="max-width:300px; border-radius:8px;">
+    <!-- Main sponsor heading in different color -->
+    <h3 style="margin-top: 15px; color: #e67e22; font-weight: bold;">MAIN SPONSOR</h3>
+    <!-- Full name and description -->
+    <h4 style="margin: 10px 0 5px 0; font-weight: bold;">Nordic e-Infrastructure Collaboration (NeIC)</h4>
+    <p style="font-size: 14px; line-height: 1.5;">
+      The Nordic e-Infrastructure is a Norway based institution that fosters cross-Nordic collaboration, resource sharing, and develops electronic infrastructure in a sustainable and FAIR manner.
+    </p>
   </div>
-</div>
-
-<!-- Main sponsor logo and details -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/nordic-e-infrastructure-collaboration-neic-vector-logo.png" 
-       alt="Keynote Session" style="max-width:300px; border-radius:8px;">
-  
-  <!-- Main sponsor heading in different color -->
-  <h3 style="margin-top: 15px; color: #e67e22; font-weight: bold;">MAIN SPONSOR</h3>
-  
-  <!-- Full name and description -->
-  <h4 style="margin: 10px 0 5px 0; font-weight: bold;">Nordic e-Infrastructure Collaboration (NeIC)</h4>
-  <p style="max-width: 600px; margin: 0 auto; font-size: 14px; line-height: 1.5;">
-    The Nordic e-Infrastructure is a Norway based institution that foster cross-Nordic collaboration, resource sharing, and to develop the electronic infrastructure in a sustainable and FAIR manner.
-  </p>
-</div>
-
-
-<!-- Collaborators Section -->
-<div style="text-align: center; margin: 60px 0;">
-  <!-- Section heading -->
-  <h2 style="font-weight: bold; font-size: 32px; margin-bottom: 20px;">
+  <br>
+  <hr style="
+    width: 70%;
+    border: 0;
+    border-top: 2px solid #ccc;  /* line thickness and color */
+    margin: 40px auto;           /* vertical spacing + center horizontally */
+    ">
+    <br>
+    <!-- Collaborators Section -->
+    <div style="text-align: center; margin: 60px 0;">
+    <!-- Section heading -->
+    <h2 style="font-weight: bold; font-size: 32px; margin-bottom: 20px;">
     Collaborators
-  </h2>
-  
-  <!-- Description text -->
-  <p style="max-width: 800px; margin: 0 auto 40px auto; font-size: 16px; line-height: 1.5;">
+    </h2>
+    <!-- Description text -->
+    <p style="max-width: 800px; margin: 0 auto 40px auto; font-size: 16px; line-height: 1.5;">
     Our collaborators that we work together with to arrange cross-Nordic events and to develop the Nordic bioinformatic community.
-  </p>
-  
-  <!-- 3x3 grid of collaborator logos -->
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; justify-items: center; align-items: center; max-width: 900px; margin: 0 auto;">
+    </p>
+    <!-- 3x3 grid of collaborator logos -->
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; justify-items: center; align-items: center; max-width: 900px; margin: 0 auto;">
     
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/university-of-oslo-logo.png" alt="University of Oslo" style="max-width:150px; border-radius:8px;">
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/Elixir-Europe-logo-1.png" alt="Elixir" style="max-width:150px; border-radius:8px;">
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/jpg_NordicRSG_White.jpg" alt="ISCB Regional Student Groups Nordics" style="max-width:150px; border-radius:8px;">
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/university-of-oslo-logo.png" alt="University of Oslo" style="max-width:150px; border-radius:8px;">
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/Elixir-Europe-logo-1.png" alt="Elixir" style="max-width:150px; border-radius:8px;">
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/jpg_NordicRSG_White.jpg" alt="ISCB Regional Student Groups Nordics" style="max-width:150px; border-radius:8px;">
     
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/university-of-copenhagen-logo.png" alt="University of Copenhagen" style="max-width:150px; border-radius:8px;">
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/NBIS-logo.png" alt="National Bioinformatics Infrastructure Sweden" style="max-width:150px; border-radius:8px;">
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/scilifelab-logo.png" alt="SciLifeLab" style="max-width:150px; border-radius:8px;">
-    
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/lubilogo.png" alt="Lund University Bioinformatics Infrastructure" style="max-width:150px; border-radius:8px;">
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/Women in Bioinformatics & data science LA.png" alt="Women in Bioinformatics and data science LA" style="max-width:150px; border-radius:8px;">
-    <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/ki_logo_rgb-custom20221016133022.jpg" alt="Karolinska Institutet" style="max-width:150px; border-radius:8px;">
-    
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/university-of-copenhagen-logo.png" alt="University of Copenhagen" style="max-width:150px; border-radius:8px;">
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/NBIS-logo.png" alt="National Bioinformatics Infrastructure Sweden" style="max-width:150px; border-radius:8px;">
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/scilifelab-logo.png" alt="SciLifeLab" style="max-width:150px; border-radius:8px;">
+      
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/lubilogo.png" alt="Lund University Bioinformatics Infrastructure" style="max-width:150px; border-radius:8px;">
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/Women in Bioinformatics & data science LA.png" alt="Women in Bioinformatics and data science LA" style="max-width:150px; border-radius:8px;">
+      <img src="https://nordiccompbio.github.io/NCB-Web/assets/img/External_Logos/ki_logo_rgb-custom20221016133022.jpg" alt="Karolinska Institutet" style="max-width:150px; border-radius:8px;">  
+    </div>
   </div>
 </div>
