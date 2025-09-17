@@ -12,7 +12,7 @@ title: NCB Week
 
 <!-- Hero Section -->
 <div style="
-    background-image: url('https://nordiccompbio.github.io/NCB-Web/assets/img/nordic-glacier-hero-banner.jpg');
+    background-image: url('assets/img/nordic-glacier-hero-banner.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

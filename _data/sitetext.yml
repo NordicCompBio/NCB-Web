@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     text: "Nordic Computational Biology"
     button: Know More
     buttonlink: "#services"
-    image: https://nordiccompbio.github.io/NCB-Web/assets/img/NCBlogo2022_circular_transp.png
+    image: "assets/img/NCBlogo2022_circular_transp.png"
 
   services:
     title: "NCB"
