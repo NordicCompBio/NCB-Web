@@ -14,7 +14,8 @@ title: Our Team
     <p style="color:#000000; margin-bottom:10px;">Project lead</p>
     <p style="font-weight:bold; color:#2980b9; margin-bottom:10px;">Sweden – Norway</p>
     <p style="font-size:14px; color:#555; margin-bottom:15px;">
-      Computational biologist. Interests: sequencing technologies (long reads), web development, data management, and genomics infrastructure.
+      Computational biologist. Interests: sequencing technologies (long reads), web development, UX/UI design, and data management.
+      Bioinformatics isn't just about data, it's about people. Who gets to ask the questions, run the code, and feel like they belong. As a team, we want Nordic CompBio to be a space of connections, learning together, and supporting each other. We are here to make sure more voices get to shape the future of computational biology.
     </p>
     <div>
       <a href="https://github.com/Nazeeefa" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
