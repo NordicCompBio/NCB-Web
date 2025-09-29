@@ -7,8 +7,7 @@ title: About NCB
 
 Nordic Computational Biology (NCB) was launched in late 2020. It initially began as a collaboration to bring together Nordic RSGs* and later resulted in a more inclusive project with a goal to further expand the network for people interested in computational biology across all Nordic regions.  
 
-
-Our aim is to spread knowledge and inspiration within the field of computational biology, as well as to highlight important research breakthroughs in Nordic countries. According to our community, NCB is an excellent platform for people of all levels and backgrounds; for students and early-career scientists to exchange research, for biotech companies to share bioinformatics advancements happening at industrial level, for developers and engineers to promote latest tools and algorithm, and for senior researchers to inspire the next generation of computational biologists.
+Our aim is to spread knowledge and inspiration within the field of computational biology, as well as to highlight important research breakthroughs in Nordic countries. According to our community, NCB is an excellent platform for people of all career levels and backgrounds; for students and early-career scientists to exchange research, for biotech companies to share bioinformatics advancements happening at industrial level, for developers and engineers to promote latest tools and algorithm, and for senior researchers to inspire the next generation of computational biologists.
 
 *The first Regional Student Group (RSG), of the ISCB, in the Nordic countries was RSG-Denmark. Shortly thereafter it was joined by RSG-Sweden and RSG-Norway in 2018 and 2020, respectively. In late 2020, a collaborative organization between the nordic RSGs was arranged and international events quickly entered the planning phase.  
 
@@ -16,11 +15,11 @@ Our aim is to spread knowledge and inspiration within the field of computational
 
 <h2 style="font-size:28px;">Mission</h2>
 
-Our mission is to organise and promote events and new initiatives, highlight scientific advancements happening across Nordics, and to provide an inclusive and open platform for people interested in computational biology (and related areas) to build collaborations and support network.
+Our mission is to foster a collaborative and inclusive computational biology community across the Nordics. We do this by organising and promoting events, launching new initiatives, highlight scientific advancements happening across Nordics, and providing an open platform for people to connect, learn together, and create support network.
 
 <h2 style="font-size:28px;">Aim</h2>
 
-Our aim for the near future is to continue with Nordic CompBio Talks with theme-focused seminars, organise flagship events such as an annual symposium and conference, and serving as a resource-based platform.  There are different ways to become a part of Nordic CompBio, visit nordic-compbio.org/sign-up to find more.
+In the near future, we are focusing on expanding the Nordic CompBio Talks through theme-focused seminars, launching flagship events such as hackathon, and developing into a resource-based platform. There are different ways to become a part of Nordic CompBio, visit nordic-compbio.org/sign-up to learn more.
 
 <h1 style="font-size:48px; color:#2c3e50;">What is Computational Biology?</h1>
 
