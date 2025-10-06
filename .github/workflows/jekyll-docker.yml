@@ -28,8 +28,8 @@ jobs:
       - name: Build site
         run: bundle exec jekyll build
       
-      - name: Copy CNAME file into _site
-        run: cp CNAME _site/CNAME
+      - name: Copy CNAME and Atproto
+        run: cp CNAME _site/CNAME && cp -r .well-known _site/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
