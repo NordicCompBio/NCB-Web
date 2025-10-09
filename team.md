@@ -89,7 +89,6 @@ title: Our Team
       </a>
     </div>
   </div>
-</div>
 
   <!-- Member 6 -->
   <div style="flex:1 1 280px; max-width:300px;">
