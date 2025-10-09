@@ -140,6 +140,14 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/margarita-alonso-ascencio-330b34191/
             icon: fab fa-linkedin-in
+      - name: "Arup Ghosh"
+        role: "Project member<br>
+        <strong>Norway</strong><br>
+        I am a postdoctoral researcher in the Department of Chemical Toxicology at the Norwegian Institute of Public Health, Oslo. My research focuses on the application of omics technologies in quantitative risk assessment (toxicology). Joining Nordic Computational Biology provided the opportunity to interact with a network of researchers from surrounding regions and contribute to activities promoting scientific research."
+        image: /assets/img/Our_Team/Arup_Ghosh_bw.jpeg
+        social:
+          - url: https://arup.dev
+            icon: fas fa-link
   contact:
     title: "Contact Us"
     text: "On social media or use the form below"
