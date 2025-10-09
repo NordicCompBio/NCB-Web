@@ -101,7 +101,7 @@ title: Our Team
     </p>
     <div>
       <a href="https://arup.dev" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
-        <i class="fab fa-globe"></i>
+        <i class="fas fa-link"></i>
       </a>
     </div>
   </div>
