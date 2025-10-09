@@ -59,7 +59,7 @@ title: Our Team
 
   <!-- Member 4 -->
   <div style="flex:1 1 280px; max-width:300px;">
-    <img src="{{ '/assets/img/Our_Team/Ahmed Mohamed_GrayScale.jpg' | relative_url }}" alt="Johan Österlund" style="width:200px; height:200px; object-fit:cover; border-radius:50%; border:6px solid #eee; margin-bottom:15px;">
+    <img src="{{ '/assets/img/Our_Team/Ahmed Mohamed_GrayScale.jpg' | relative_url }}" alt="Ahmed Eltorky" style="width:200px; height:200px; object-fit:cover; border-radius:50%; border:6px solid #eee; margin-bottom:15px;">
     <h3 style="margin:10px 0 5px; font-size:20px; color:#2c3e50;">Ahmed Eltorky</h3>
     <p style="color:#000000; margin-bottom:10px;">Project member</p>
     <p style="font-weight:bold; color:#2980b9; margin-bottom:10px;">Finland</p>
@@ -76,7 +76,7 @@ title: Our Team
   
   <!-- Member 5 -->
   <div style="flex:1 1 280px; max-width:300px;">
-    <img src="{{ '/assets/img/Our_Team/Maria-margarita.jpeg' | relative_url }}" alt="Johan Österlund" style="width:200px; height:200px; object-fit:cover; border-radius:50%; border:6px solid #eee; margin-bottom:15px;">
+    <img src="{{ '/assets/img/Our_Team/Maria-margarita.jpeg' | relative_url }}" alt="Margarita Alonso" style="width:200px; height:200px; object-fit:cover; border-radius:50%; border:6px solid #eee; margin-bottom:15px;">
     <h3 style="margin:10px 0 5px; font-size:20px; color:#2c3e50;">Margarita Alonso</h3>
     <p style="color:#000000; margin-bottom:10px;">Project member</p>
     <p style="font-weight:bold; color:#2980b9; margin-bottom:10px;">Sweden</p>
@@ -86,6 +86,23 @@ title: Our Team
     <div>
       <a href="https://www.linkedin.com/in/margarita-alonso-ascencio-330b34191/" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
         <i class="fab fa-linkedin-in"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
+  <!-- Member 6 -->
+  <div style="flex:1 1 280px; max-width:300px;">
+    <img src="{{ '/assets/img/Our_Team/Arup_Ghosh_bw.jpeg' | relative_url }}" alt="Arup Ghosh" style="width:200px; height:200px; object-fit:cover; border-radius:50%; border:6px solid #eee; margin-bottom:15px;">
+    <h3 style="margin:10px 0 5px; font-size:20px; color:#2c3e50;">Arup Ghosh</h3>
+    <p style="color:#000000; margin-bottom:10px;">Project member</p>
+    <p style="font-weight:bold; color:#2980b9; margin-bottom:10px;">Norway</p>
+    <p style="font-size:14px; color:#555; margin-bottom:15px;">
+      I am a postdoctoral researcher in the Department of Chemical Toxicology at the Norwegian Institute of Public Health, Oslo. My research focuses on the application of omics technologies in quantitative risk assessment (toxicology). Joining Nordic Computational Biology provided the opportunity to interact with a network of researchers from surrounding regions and contribute to activities promoting scientific research.
+    </p>
+    <div>
+      <a href="https://arup.dev" target="_blank" style="margin:0 8px; font-size:20px; color:#555; text-decoration:none;">
+        <i class="fab fa-globe"></i>
       </a>
     </div>
   </div>
