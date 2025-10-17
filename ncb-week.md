@@ -97,7 +97,7 @@ title: NCB Week
     </p>
     <p>You have the opportunity to attend and present your work there too.</p>
     <p>Abstract submission is extended until 17th of October 23:59 EEST.</p>
-    <p>Registration is open until 17th of October 23:59 EEST. </p>
+    <p>Registration is still open for online attendance. </p>
 
     <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
       <a href="https://docs.google.com/forms/d/1cAnp0ueSv9lqa-bFdfD-dNiAlUGN2oaGJBgv09PIxY8/edit?usp=drive_web&ouid=113154760262395868407" target="_blank" 
