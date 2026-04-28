@@ -1,5 +1,14 @@
 {{ define "main" }}
-  {{ partial "page-header" . }}
+  {{ if .Draft }}
+    {{ partial "page-header" . }}
+    <section class="section pt-0">
+      <div class="container text-center py-16">
+        <h1 class="h3 mb-4">{{ .Title }}</h1>
+        <p class="text-lg">This page is currently in draft mode.</p>
+      </div>
+    </section>
+  {{ else }}
+    {{ partial "page-header" . }}
 
   <style>
     .team-page .quick-links {
@@ -233,4 +242,5 @@
       });
     });
   </script>
+  {{ end }}
 {{ end }}

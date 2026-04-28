@@ -8,19 +8,18 @@ description: "Computational biology Jobs in the Nordic countries"
 draft: false
 ---
 
-These are the current open positions in the Nordic countries related to computational biology. If you would like to post a job opening, please contact us at nordic-compbio.org/contact.
+These are the current open positions in the Nordic countries related to computational biology. If you would like to post a job opening, submit the details in our contact page.
+
+{{< button label="Contact us" link="/contact" style="solid" >}}
 
 ## Open Positions
 
 | Position        |      Location      | Salary | Deadline | Link |
 | ------------- | ----------- | ---- | ---- | ---- |
-| Call for Academic and Industrial Postdoctoral Fellowships in Data-Driven Life Science 2026 | Stockholm, Sweden | NA | 31-03-2026 | {{< button label="Apply" link="https://www.scilifelab.se/data-driven/ddls-research-school/ddls-research-school-postdoc-call-2026/" style="solid" >}} |
-| Postdoctoral position in Machine Learning and Computational Biology | Faculty of Medicine, University of Oslo, Norway | NOK 595 000 - 700 000 | 10th April 2026 | {{< button label="Apply" link="https://www.jobbnorge.no/en/available-jobs/job/296798/postdoctoral-position-in-machine-learning-and-computational-biology" style="solid" >}} |
-| PhD Research Fellow in functional genomics | Department of Biosciences, University of Oslo, Norway | NOK 550 800 - 595 000  | 1st April 2026 | {{< button label="Apply" link="https://www.jobbnorge.no/en/available-jobs/job/295402/phd-research-fellow-in-functional-genomics" style="solid" >}} |
-| Postdoctoral Fellow in Immunology and Bioinformatics | Akershus universitetssykehus HF, Norway |  NA  | 08.04.2026 | {{< button label="Apply" link="https://www.finn.no/job/ad/453870172" style="solid" >}} |
-| Postdoctoral Fellow in Immunology and Bioinformatics | Akershus universitetssykehus HF, Norway |  NA  | 08.04.2026 | {{< button label="Apply" link="https://www.finn.no/job/ad/453870172" style="solid" >}} |
-| Senior Software Engineer | NEC OncoImmunity AS, Norway |  NA  | NA | {{< button label="Apply" link="https://www.finn.no/job/ad/450293124" style="solid" >}} |
-| Computational/Bioinformatics Scientist | Nykode Therapeutics ASA, Norway |  08.04.2026  | NA | {{< button label="Apply" link="https://www.finn.no/job/ad/455802912" style="solid" >}} |
+| Researcher in Single-cell Data Science for Cancer Research | Oslo universitetssykehus HF, Norway | NA | 17.05.2026 | {{< button label="Apply" link="https://www.finn.no/job/ad/461138160" style="solid" >}} |
+| Researcher/Researcher without a doctorate in Breast Cancer Risk and Genetic Interactions | Oslo universitetssykehus HF, Norway | NA | 11.05.2026 | {{< button label="Apply" link="https://www.finn.no/job/ad/461109325" style="solid" >}} |
+
+
 
 <style>
 th {
@@ -28,3 +27,43 @@ th {
   color: #ffffff;
 }
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const jobsHeading = [...document.querySelectorAll("h2")].find(
+    (h) => h.textContent.trim().toLowerCase() === "open positions",
+  );
+  const jobsTable = jobsHeading?.nextElementSibling;
+  if (!jobsTable || jobsTable.tagName !== "TABLE") return;
+
+  const deadlineIndex = [...jobsTable.querySelectorAll("thead th")]
+    .map((th) => th.textContent.trim().toLowerCase())
+    .indexOf("deadline");
+  if (deadlineIndex === -1) return;
+
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const parseDeadline = (value) => {
+    const raw = value.trim().toLowerCase();
+    if (!raw || raw === "na" || raw === "n/a") return null;
+    const [day, month, year] = raw.split(".").map(Number);
+    if (!day || !month || !year) return null;
+    const date = new Date(year, month - 1, day);
+    date.setHours(0, 0, 0, 0);
+    return date;
+  };
+
+  [...jobsTable.querySelectorAll("tbody tr")].forEach((row) => {
+    const cell = row.querySelectorAll("td")[deadlineIndex];
+    const deadlineDate = cell ? parseDeadline(cell.textContent || "") : null;
+    if (deadlineDate && deadlineDate < today) row.remove();
+  });
+
+  if (!jobsTable.querySelector("tbody tr")) {
+    const emptyState = document.createElement("p");
+    emptyState.textContent = "No open positions right now. Please check back soon.";
+    jobsTable.insertAdjacentElement("afterend", emptyState);
+  }
+});
+</script>

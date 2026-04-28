@@ -51,14 +51,26 @@
     });
 
     function pauseTimelineAutoplay() {
-      if (timelineSwiper.autoplay && timelineSwiper.autoplay.running) {
+      if (!timelineSwiper.autoplay) {
+        return;
+      }
+
+      if (typeof timelineSwiper.autoplay.pause === "function") {
         timelineSwiper.autoplay.pause();
+      } else if (typeof timelineSwiper.autoplay.stop === "function") {
+        timelineSwiper.autoplay.stop();
       }
     }
 
     function resumeTimelineAutoplay() {
-      if (timelineSwiper.autoplay && timelineSwiper.autoplay.paused) {
+      if (!timelineSwiper.autoplay) {
+        return;
+      }
+
+      if (typeof timelineSwiper.autoplay.resume === "function") {
         timelineSwiper.autoplay.resume();
+      } else if (typeof timelineSwiper.autoplay.start === "function") {
+        timelineSwiper.autoplay.start();
       }
     }
 
