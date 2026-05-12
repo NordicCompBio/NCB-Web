@@ -6,6 +6,8 @@ meta_title: "New/CompBio Job Opportunities in the Nordics"
 description: "Computational biology Jobs in the Nordic countries"
 # save as draft
 draft: false
+# Template to use for the job position
+# | Researcher in Single-cell Data Science for Cancer Research | Oslo universitetssykehus HF, Norway | NA | 17.05.2026 | {{< button label="Apply" link="https://www.finn.no/job/ad/461138160" style="solid" >}} |
 ---
 
 These are the current open positions in the Nordic countries related to computational biology. If you would like to post a job opening, submit the details in our contact page.
