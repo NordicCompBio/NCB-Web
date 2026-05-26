@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://nordiccompbio.github.io/NCB-Web-2.0/"
+baseURL = "https://www.nordic-compbio.org"
 # Title of your website (required).
 title = "NordicCompBio V2.0"
 # Your theme name
