@@ -114,10 +114,11 @@ Please send your promotional materials and event details to info@nordic-compbio.
 Ready to connect the dots between immunology and computer science?
 
 Join us for a short online session and you will learn about: 
-<li>Cutting edge technology in the industry</li>
-<li>Advances in the immunology research</li>
-<li>Latest tools in the field</li>
-
+<ul class="upcoming-card-list">
+	<li>Cutting edge technology in the industry</li>
+	<li>Advances in the immunology research</li>
+	<li>Latest tools in the field</li>
+</ul>
 </div>
 </div>
 
