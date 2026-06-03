@@ -111,7 +111,8 @@ Please send your promotional materials and event details to info@nordic-compbio.
 {{< image src="images/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" width="150px" option="q100" webp="false" >}}
 </div>
 <div class="upcoming-event-text">
-Ready to connect the dots between immunology and computer science?
+
+**Ready to connect the dots between immunology and computer science?**
 
 Join us for a short online session and you will learn about: 
 <ul class="upcoming-card-list">
@@ -128,7 +129,7 @@ Join us for a short online session and you will learn about:
 
 
 <a class="upcoming-link-button" href="https://docs.google.com/presentation/d/1hKjA2rTDdvXCoTD5-XtRA6aLfV3AbPwO/present" target="_blank" rel="noopener noreferrer">Programme</a>
-<a class="upcoming-link-button" href="https://forms.gle/ZS4RkKHkVDyPoHPE8" target="_blank" rel="noopener noreferrer">RESITER HERE</a>
+<a class="upcoming-link-button" href="https://forms.gle/ZS4RkKHkVDyPoHPE8" target="_blank" rel="noopener noreferrer">Register here</a>
 </div>
 </div>
 
