@@ -104,6 +104,36 @@ Please send your promotional materials and event details to info@nordic-compbio.
 <div class="upcoming-events-page">
 
 <div class="upcoming-card">
+<div class="upcoming-card-header">NCB sessions: ImmunoInformatics 2026</div>
+<div class="upcoming-card-content">
+<div class="upcoming-event-layout">
+<div class="upcoming-event-logo">
+{{< image src="images/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" width="150px" option="q100" webp="false" >}}
+</div>
+<div class="upcoming-event-text">
+Ready to connect the dots between immunology and computer science?
+
+Join us for a short online session and you will learn about: 
+<li>Cutting edge technology in the industry</li>
+<li>Advances in the immunology research</li>
+<li>Latest tools in the field</li>
+
+</div>
+</div>
+
+**Event type :** Online
+
+**Date :** 12th June 2026 15:30-17:00 EEST
+
+
+<a class="upcoming-link-button" href="https://docs.google.com/presentation/d/1hKjA2rTDdvXCoTD5-XtRA6aLfV3AbPwO/present" target="_blank" rel="noopener noreferrer">Programme</a>
+<a class="upcoming-link-button" href="https://forms.gle/ZS4RkKHkVDyPoHPE8" target="_blank" rel="noopener noreferrer">RESITER HERE</a>
+</div>
+</div>
+
+<div class="upcoming-events-page">
+
+<div class="upcoming-card">
 <div class="upcoming-card-header">European Bioconductor Conference 2026 - EuroBioC2026</div>
 <div class="upcoming-card-content">
 <div class="upcoming-event-layout">
