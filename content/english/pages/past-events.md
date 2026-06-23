@@ -158,13 +158,9 @@ Join us for a short online session and you will learn about:
 **Date :** 12th June 2026 15:30-17:00 EEST
 
 <div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
-	<a href="https://docs.google.com/forms/d/1cAnp0ueSv9lqa-bFdfD-dNiAlUGN2oaGJBgv09PIxY8/edit?usp=drive_web&ouid=113154760262395868407" target="_blank" 
+	<a href="" target="_blank" 
 		 style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
 		<strong>Register Now</strong>
-	</a>
-	<a href="" target="_blank" 
-		 style="padding:15px 25px; background:#2ecc71; color:white; text-decoration:none; border-radius:8px;">
-		<strong>Submit Abstract</strong>
 	</a>
 	<a href="https://docs.google.com/presentation/d/1hKjA2rTDdvXCoTD5-XtRA6aLfV3AbPwO/present" target="_blank" 
 		style="padding:15px 25px; background:#e67e22; color:white; text-decoration:none; border-radius:8px;">
