@@ -131,6 +131,47 @@ Please send your promotional materials and event details to info@nordic-compbio.
 
 <div class="past-events-page">
 
+## 2026
+
+{{% peaccordion "NCB Sessions: ImmunoInformatics" %}}
+
+<div class="mb-3 mt-2 flex items-center gap-3">
+{{< imageflat src="iimages/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" height="50px" >}}
+<strong>Finland + Estonia — Tallinn (23-24 Oct)</strong>
+</div>
+
+**23-24 Oct: Tallinn**
+
+**Ready to connect the dots between immunology and computer science?**
+
+Join us for a short online session and you will learn about: 
+<ul class="upcoming-card-list">
+	<li>Cutting edge technology in the industry</li>
+	<li>Advances in the immunology research</li>
+	<li>Latest tools in the field</li>
+</ul>
+</div>
+</div>
+
+**Event type :** Online
+
+**Date :** 12th June 2026 15:30-17:00 EEST
+
+<div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+	<a href="https://docs.google.com/forms/d/1cAnp0ueSv9lqa-bFdfD-dNiAlUGN2oaGJBgv09PIxY8/edit?usp=drive_web&ouid=113154760262395868407" target="_blank" 
+		 style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
+		<strong>Register Now</strong>
+	</a>
+	<a href="" target="_blank" 
+		 style="padding:15px 25px; background:#2ecc71; color:white; text-decoration:none; border-radius:8px;">
+		<strong>Submit Abstract</strong>
+	</a>
+	<a href="https://docs.google.com/presentation/d/1hKjA2rTDdvXCoTD5-XtRA6aLfV3AbPwO/present" target="_blank" 
+		style="padding:15px 25px; background:#e67e22; color:white; text-decoration:none; border-radius:8px;">
+		<strong>View Schedule</strong>
+	</a>
+</div>
+
 ## 2025
 
 {{% peaccordion "NCB Week 2025 Finland & Estonia" %}}
