@@ -136,7 +136,7 @@ Please send your promotional materials and event details to info@nordic-compbio.
 <!-- accordion start-->
 {{% peaccordion "NCB Sessions: ImmunoInformatics" %}}
 <div class="mb-3 mt-2 flex items-center gap-3">
-{{< imageflat src="iimages/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" height="50px" >}}
+{{< imageflat src="images/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" height="50px" >}}
 <strong>Finland + Estonia — Tallinn (23-24 Oct)</strong>
 </div>
 
@@ -164,6 +164,7 @@ Join us for a short online session and you will learn about:
 		<strong>View Schedule</strong>
 	</a>
 </div>
+
 {{% /peaccordion %}}
 <!-- accordion end-->
 
