@@ -136,8 +136,8 @@ Please send your promotional materials and event details to info@nordic-compbio.
 <!-- accordion start-->
 {{% peaccordion "NCB Sessions: ImmunoInformatics" %}}
 <div class="mb-3 mt-2 flex items-center gap-3">
-{{< imageflat src="images/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" height="50px" >}}
-<strong>Finland + Estonia — Tallinn (23-24 Oct)</strong>
+	{{< imageflat src="images/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" height="50px" >}}
+	<strong>Finland + Estonia — Tallinn (23-24 Oct)</strong>
 </div>
 
 **23-24 Oct: Tallinn**
@@ -154,16 +154,18 @@ Join us for a short online session and you will learn about:
 
 **Date :** 12th June 2026 15:30-17:00 EEST
 
-<div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
-	<a href="" target="_blank" 
-		 style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
-		<strong>Register Now</strong>
-	</a>
-	<a href="https://docs.google.com/presentation/d/1hKjA2rTDdvXCoTD5-XtRA6aLfV3AbPwO/present" target="_blank" 
-		style="padding:15px 25px; background:#e67e22; color:white; text-decoration:none; border-radius:8px;">
-		<strong>View Schedule</strong>
-	</a>
-</div>
+<p>
+	<div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+		<a href="" target="_blank" 
+			style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
+			<strong>Register Now</strong>
+		</a>
+		<a href="https://docs.google.com/presentation/d/1hKjA2rTDdvXCoTD5-XtRA6aLfV3AbPwO/present" target="_blank" 
+			style="padding:15px 25px; background:#e67e22; color:white; text-decoration:none; border-radius:8px;">
+			<strong>View Schedule</strong>
+		</a>
+	</div>
+</p>
 
 {{% /peaccordion %}}
 <!-- accordion end-->
