@@ -103,7 +103,7 @@ Please send your promotional materials and event details to info@nordic-compbio.
 
 <div class="upcoming-events-page">
 
-<div class="upcoming-card">
+<!-- <div class="upcoming-card">
 <div class="upcoming-card-header">NCB sessions: ImmunoInformatics 2026</div>
 <div class="upcoming-card-content">
 <div class="upcoming-event-layout">
@@ -133,7 +133,7 @@ Join us for a short online session and you will learn about:
 </div>
 </div>
 
-<div class="upcoming-events-page">
+<div class="upcoming-events-page"> -->
 
 <div class="upcoming-card">
 <div class="upcoming-card-header">European Bioconductor Conference 2026 - EuroBioC2026</div>

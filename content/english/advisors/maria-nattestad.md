@@ -1,7 +1,7 @@
 ---
 title: Maria Nattestad
 email: johndoe@email.com
-image: "/images/advisors/Maria_Nattestad.png"
+image: "/images/advisors/Maria_Nattestad_sq.png"
 description: Advisory Board Member
 position: ""
 country: 🇩🇰

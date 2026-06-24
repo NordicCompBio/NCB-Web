@@ -41,6 +41,11 @@ name = "Team"
 url = "/team"
 
 [[main]]
+weight = 5
+name = "Board"
+url = "/advisors"
+
+[[main]]
 name = "Partnerships"
 url = "/partnerships"
 weight = 6
