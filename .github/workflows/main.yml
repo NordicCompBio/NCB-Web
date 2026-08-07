@@ -60,6 +60,11 @@ jobs:
       - name: Build site
         run: npm run build
 
+      - name: Bsky & DNS
+        run: |
+          cp -R .well-known public/
+          cp CNAME public/CNAME
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
