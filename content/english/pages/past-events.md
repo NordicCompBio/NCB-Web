@@ -133,6 +133,24 @@ Please send your promotional materials and event details to info@nordic-compbio.
 
 ## 2026
 
+{{% peaccordion "European Bioconductor Conference 2026 - EuroBioC2026" %}}
+<div class="mb-3 mt-2 flex items-center gap-3">
+	{{< imageflat src="images/events/2026/EuroBioC2026_sticker.png" caption="" alt="EuroBioC2026" height="150px" >}}
+	<strong>Turku, Finland (1-5 June)</strong>
+</div>
+
+The European Bioconductor Conference (EuroBioC2026) brought together the Bioconductor community to showcase the latest cutting-edge developments on Bioconductor software packages, as well as on broader emerging technologies impacting computational biology.
+
+**Event type :** Partnered event (NCB is a partner organization)
+
+**Dates :**
+- Workshop and hackathon: June 1-5, 2026
+- EuroBioC2026 conference: June 3-5, 2026
+
+<a href="https://eurobioc2026.bioconductor.org" target="_blank" rel="noopener noreferrer">More details</a>
+
+{{% /peaccordion %}}
+
 <!-- accordion start-->
 {{% peaccordion "NCB Sessions: ImmunoInformatics" %}}
 <div class="mb-3 mt-2 flex items-center gap-3">

@@ -136,26 +136,11 @@ Join us for a short online session and you will learn about:
 <div class="upcoming-events-page"> -->
 
 <div class="upcoming-card">
-<div class="upcoming-card-header">European Bioconductor Conference 2026 - EuroBioC2026</div>
+<div class="upcoming-card-header">From DNA Sequence to Regulatory Activity: Genomic AI for Predicting and Designing Gene Expression</div>
 <div class="upcoming-card-content">
-<div class="upcoming-event-layout">
-<div class="upcoming-event-logo">
-{{< image src="images/events/2026/EuroBioC2026_sticker.png" caption="" alt="EuroBioC2026" width="150px" option="q100" webp="false" >}}
-</div>
-<div class="upcoming-event-text">
-The European Bioconductor Conference (EuroBioC2026) will take place on the first week of June in Turku, Finland. EuroBioC2026 will bring together the Bioconductor community to showcase the latest cutting-edge developments on Bioconductor software packages, as well as on broader emerging technologies impacting computational biology.
-</div>
-</div>
+<strong>NCB Talks - Monday 28 September, 17 CEST</strong>
 
-**Event type :** Partnered event (NCB is a partner organization)
-
-**Dates :**
-<ul class="upcoming-card-list">
-	<li>Workshop and hackathon: June 1-5, 2026</li>
-	<li>EuroBioC2026 conference: June 3-5, 2026</li>
-</ul>
-
-<a class="upcoming-link-button" href="https://eurobioc2026.bioconductor.org" target="_blank" rel="noopener noreferrer">More details</a>
+More information coming soon!
 </div>
 </div>
 
