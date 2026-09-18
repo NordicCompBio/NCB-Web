@@ -138,9 +138,15 @@ Join us for a short online session and you will learn about:
 <div class="upcoming-card">
 <div class="upcoming-card-header">From DNA Sequence to Regulatory Activity: Genomic AI for Predicting and Designing Gene Expression</div>
 <div class="upcoming-card-content">
-<strong>NCB Talks - Monday 28 September, 17 CEST</strong>
 
-More information coming soon!
+<strong>NCB Talks</strong>
+
+**Date :** Monday 28 September, 17 CEST
+
+The talk is organised by Ben Fishman who will also cover the technical foundations of sequence-to-expression modeling and showcase their **Genomic Intelligence** platform, including agentic workflows that combine specialised genomic models with established bioinformatics tools.
+
+<a class="upcoming-link-button" href="https://docs.google.com/forms/d/e/1FAIpQLScOUKHhdrncuywXUcXoCQlTGCbuUOBe6YcMvFmrp9Q6KBWMxQ/viewform" target="_blank" rel="noopener noreferrer">Register here</a>
+
 </div>
 </div>
 
