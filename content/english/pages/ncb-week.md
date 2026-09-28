@@ -186,6 +186,35 @@ draft: false
 
 <div class="ncb-spacer"></div>
 
+<div class="ncb-section ncb-event-card" style="background:#f0f8ff;">
+
+  {{< image src="images/country_flags/Finland flag.png" caption="" alt="Flag of Finland" height="70px" option="q100" webp="false" >}}
+  <div class="ncb-event-content">
+    <h2 class="ncb-event-title" style="font-size:28px; color:#2980b9; margin:0;">
+      NCB Week 2026: Finland - Helsinki
+    </h2>
+    <p class="ncb-event-meta">23 Oct, 2026</p>
+    <p>Helsinki University, Athena building, Siltavuorenpenger 3 A, 00170 Helsinki</p>
+    <div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+      <a href="https://maps.app.goo.gl/zwyyAmqxcnzAJdhNA" target="_blank" rel="noopener nofollow"
+         style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
+        <strong>Location</strong>
+      </a>
+      <a href="https://forms.gle/wYjrXfPMi4ieHU5G6" target="_blank" rel="noopener nofollow"
+         style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
+        <strong>Register here</strong>
+      </a>
+      <a href="https://docs.google.com/presentation/d/1rdNDHTiFNW-A0C79GgWfmaY8IDgStOuS/present?slide=id.g368d6cd6b51_0_10" target="_blank" rel="noopener nofollow"
+         style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
+        <strong>Programme</strong>
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<div class="ncb-spacer"></div>
+
 <div class="ncb-section ncb-event-card" style="background:#cad1d9;">
 
   {{< image src="images/country_flags/Sweden flag.png" caption="" alt="Flag of Sweden" height="70px" option="q100" webp="false" >}}
