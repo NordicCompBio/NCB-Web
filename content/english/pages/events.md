@@ -8,6 +8,9 @@ description: "Upcoming and past events hosted by NCB"
 draft: false
 ---
 
+<div style="margin-bottom: 1.5rem;">
+<a class="upcoming-link-button" href="https://drive.google.com/file/d/1GJPTga54ge_ewOObQPOU7Nw9jelr_wAS/view" target="_blank" rel="noopener noreferrer">We follow the Code of Conduct for all our events</a>
+</div>
 
 We provide here information about events we are organizing and collaborating on across the Nordic region.
 
