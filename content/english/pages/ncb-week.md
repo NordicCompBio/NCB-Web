@@ -191,10 +191,16 @@ draft: false
   {{< image src="images/country_flags/Finland flag.png" caption="" alt="Flag of Finland" height="70px" option="q100" webp="false" >}}
   <div class="ncb-event-content">
     <h2 class="ncb-event-title" style="font-size:28px; color:#2980b9; margin:0;">
-      NCB Week 2026: Finland - Helsinki
+      NCB Week 2026: Nordic CompBio Finland
     </h2>
     <p class="ncb-event-meta">23 Oct, 2026</p>
-    <p>Helsinki University, Athena building, Siltavuorenpenger 3 A, 00170 Helsinki</p>
+    <p>Nordic CompBio Finland is organized by NCB and University of Eastern Finland.</p>
+    <p>The event is tailored for bioinformaticians and developers. It is an excellent opportunity for everyone working with biological data who are keen on exploring new bioinformatics methods, workflows or challenges.</p>
+    <p>Location: The event will take place at Helsinki University, Athena building, Siltavuorenpenger 3 A, 00170 Helsinki</p>
+    <p>Registration is now open.</p>
+    <div class="ncb-logo-row" style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top:24px;">
+      {{< image src="images/institutes/UEF_white on black.jpg" caption="" alt="University of Eastern Finland" height="90px" option="q100" webp="false" >}}
+    </div>
     <div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
       <a href="https://maps.app.goo.gl/zwyyAmqxcnzAJdhNA" target="_blank" rel="noopener nofollow"
          style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
@@ -243,24 +249,5 @@ draft: false
 </div>
 
 <div class="ncb-spacer"></div>
-
-<div class="ncb-section ncb-event-card" style="background:#f0f8ff;">
-
-  {{< image src="images/country_flags/Finland flag.png" caption="" alt="Flag of Finland" height="70px" option="q100" webp="false" >}}
-  <div class="ncb-event-content">
-    <h2 class="ncb-event-title" style="font-size:28px; color:#2980b9; margin:0;">
-      NCB Week 2026: Finland
-    </h2>
-    <p>The Nordic Computational Biology week in Finland is organized by NCB and University of Eastern Finland.</p>
-    <p>The event is tailored for Bioinformaticians and Computational Biologists. It is an excellent opportunity for researchers and students working with biological data who are keen on exploring new bioinformatics methods, workflows, or challenges.</p>
-    <p>Stay tuned for more information soon on location and registration.</p>
-    <div class="ncb-logo-row" style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top:24px;">
-      {{< image src="images/institutes/UEF_white on black.jpg" caption="" alt="University of Eastern Finland" height="90px" option="q100" webp="false" >}}
-    </div>
-  </div>
-
-</div>
-
-
 
 </div>
