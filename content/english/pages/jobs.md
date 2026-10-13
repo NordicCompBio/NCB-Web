@@ -18,8 +18,9 @@ These are the current open positions in the Nordic countries related to computat
 
 | Position        |      Location      | Salary | Deadline | Link |
 | ------------- | ----------- | ---- | ---- | ---- |
-| Researcher in Single-cell Data Science for Cancer Research | Oslo universitetssykehus HF, Norway | NA | 17.05.2026 | {{< button label="Apply" link="https://www.finn.no/job/ad/461138160" style="solid" >}} |
-| Researcher/Researcher without a doctorate in Breast Cancer Risk and Genetic Interactions | Oslo universitetssykehus HF, Norway | NA | 11.05.2026 | {{< button label="Apply" link="https://www.finn.no/job/ad/461109325" style="solid" >}} |
+| PhD Research Fellow in Bioinformatics and Computational Biology | University of Oslo, Norway | NOK 550800-600 000 | 21.10.2026 | {{< button label="Apply" link="https://www.jobbnorge.no/en/available-jobs/job/309328/phd-research-fellow-in-bioinformatics-and-computational-biology" style="solid" >}} |
+
+| Postdoctoral Research Fellow in Bioinformatics and Computational Biology | University of Oslo, Norway | NOK 595000-679000 | 21.10.2026 | {{< button label="Apply" link="https://www.jobbnorge.no/en/available-jobs/job/309329/postdoctoral-research-fellow-in-bioinformatics-and-computational-biology" style="solid" >}} |
 
 
 
