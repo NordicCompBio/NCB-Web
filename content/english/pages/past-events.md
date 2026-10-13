@@ -151,32 +151,51 @@ The European Bioconductor Conference (EuroBioC2026) brought together the Biocond
 
 {{% /peaccordion %}}
 
-<!-- accordion start-->
-{{% peaccordion "NCB Sessions: ImmunoInformatics" %}}
+{{% peaccordion "NCB Talks: From DNA Sequence to Regulatory Activity" %}}
 <div class="mb-3 mt-2 flex items-center gap-3">
-	{{< imageflat src="images/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" height="50px" >}}
-	<strong>Finland + Estonia — Tallinn (23-24 Oct)</strong>
+	<strong>NCB Talks</strong>
 </div>
 
-**23-24 Oct: Tallinn**
+**Date :** Monday 28 September 2026, 17:00 CEST
+
+The talk was organised by Ben Fishman and covered the technical foundations of sequence-to-expression modeling and showcased their **Genomic Intelligence** platform, including agentic workflows that combine specialised genomic models with established bioinformatics tools.
+
+**Event type :** Online talk
+
+<p>
+	<div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLScOUKHhdrncuywXUcXoCQlTGCbuUOBe6YcMvFmrp9Q6KBWMxQ/viewform" target="_blank" 
+			style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
+			<strong>Registration</strong>
+		</a>
+	</div>
+</p>
+
+{{% /peaccordion %}}
+
+{{% peaccordion "NCB Sessions: ImmunoInformatics 2026" %}}
+<div class="mb-3 mt-2 flex items-center gap-3">
+	{{< imageflat src="images/events/2026/ImmunoInformatics_2026.png" caption="" alt="NCB ImmunoInformatics session" height="50px" >}}
+	<strong>Online</strong>
+</div>
 
 **Ready to connect the dots between immunology and computer science?**
 
-Join us for a short online session and you will learn about: 
+Join us for a short online session and learn about:
 
-- Cutting edge technology in the industry
-- Advances in the immunology research
+- Cutting-edge technology in the industry
+- Advances in immunology research
 - Latest tools in the field
 
 **Event type :** Online
 
-**Date :** 12th June 2026 15:30-17:00 EEST
+**Date :** 12th June 2026, 15:30-17:00 EEST
 
 <p>
 	<div class="ncb-cta-row" style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
-		<a href="" target="_blank" 
+		<a href="https://forms.gle/ZS4RkKHkVDyPoHPE8" target="_blank" 
 			style="padding:15px 25px; background:#3498db; color:white; text-decoration:none; border-radius:8px;">
-			<strong>Register Now</strong>
+			<strong>Register here</strong>
 		</a>
 		<a href="https://docs.google.com/presentation/d/1hKjA2rTDdvXCoTD5-XtRA6aLfV3AbPwO/present" target="_blank" 
 			style="padding:15px 25px; background:#e67e22; color:white; text-decoration:none; border-radius:8px;">
@@ -186,7 +205,6 @@ Join us for a short online session and you will learn about:
 </p>
 
 {{% /peaccordion %}}
-<!-- accordion end-->
 
 ## 2025
 
