@@ -19,10 +19,7 @@ These are the current open positions in the Nordic countries related to computat
 | Position        |      Location      | Salary | Deadline | Link |
 | ------------- | ----------- | ---- | ---- | ---- |
 | PhD Research Fellow in Bioinformatics and Computational Biology | University of Oslo, Norway | NOK 550800-600 000 | 21.10.2026 | {{< button label="Apply" link="https://www.jobbnorge.no/en/available-jobs/job/309328/phd-research-fellow-in-bioinformatics-and-computational-biology" style="solid" >}} |
-
 | Postdoctoral Research Fellow in Bioinformatics and Computational Biology | University of Oslo, Norway | NOK 595000-679000 | 21.10.2026 | {{< button label="Apply" link="https://www.jobbnorge.no/en/available-jobs/job/309329/postdoctoral-research-fellow-in-bioinformatics-and-computational-biology" style="solid" >}} |
-
-
 
 <style>
 th {
