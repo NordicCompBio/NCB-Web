@@ -196,9 +196,9 @@ draft: false
     <p class="ncb-event-meta">23 Oct, 2026</p>
     <p>Nordic CompBio Finland is organized by NCB and University of Eastern Finland.</p>
     <p>The event is tailored for bioinformaticians and developers. It is an excellent opportunity for everyone working with biological data who are keen on exploring new bioinformatics methods, workflows or challenges.</p>
-    <p>Location: The event will take place at Helsinki University, Athena building, Siltavuorenpenger 3 A, 00170 Helsinki</p>
+    <p>Location: The event will take place at Helsinki University, Athena building, Siltavuorenpenger 3 A, lecture hall 107, 00170 Helsinki</p>
     <p><strong>Type of event:</strong> Hybrid </p>
-    <p>Registration is now open.</p>
+    <p>Online registration is still open.</p>
     <div class="ncb-logo-row" style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top:24px;">
       {{< image src="images/institutes/UEF_white on black.jpg" caption="" alt="University of Eastern Finland" height="90px" option="q100" webp="false" >}}
       {{< image src="images/institutes/HY__TN23_farmaL_EN_B3____BW.png" caption="" alt="University of Helsinki, Faculty of Pharmacy" height="90px" option="q100" webp="false" >}}
